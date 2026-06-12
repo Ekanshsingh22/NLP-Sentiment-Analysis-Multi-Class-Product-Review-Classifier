@@ -202,19 +202,5 @@ jupyter>=1.0.0
 
 ---
 
-## 👤 Author
 
-**[Your Name]**  
-B.Tech / M.Tech [Your Branch] | [Your College]  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-*Built with ❤️ using Python, Scikit-learn, and a passion for NLP*
