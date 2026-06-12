@@ -1,0 +1,1501 @@
+review_id,review_text,sentiment,rating,product_category
+1117,Extremely unhappy with this purchase. Awful.,negative,2,Sports
+1369,"It is alright, not what I expected though. Fair enough.",neutral,3,Clothing
+423,"Best purchase I have ever made, works perfectly. Great!",positive,5,Clothing
+414,"Incredible performance, beats all competitors easily. Highly recommended!",positive,5,Beauty
+452,"Perfect in every way, could not ask for more. Amazing!",positive,5,Automotive
+862,Terrible smell and poor packaging overall. Zero stars.,negative,1,Electronics
+1064,The product is dangerous and poorly made. Awful.,negative,1,Clothing
+742,"Terrible product, broke after just one day of use. Never again.",negative,1,Toys
+1273,"It is alright, not what I expected though. Average.",neutral,3,Sports
+260,"Superb quality and fast delivery, very satisfied. Amazing!",positive,5,Sports
+889,The product is dangerous and poorly made. Garbage.,negative,2,Electronics
+1433,"Neither great nor terrible, just okay overall. Fair enough.",neutral,3,Automotive
+713,Stopped working within a week of purchase. Never again.,negative,1,Electronics
+1383,Works fine for occasional use I suppose. Average.,neutral,3,Books
+71,"Superb quality and fast delivery, very satisfied. Amazing!",positive,5,Clothing
+1269,Acceptable for the price point given. It is alright.,neutral,3,Beauty
+1492,"Does what it says, no more no less. Average.",neutral,3,Books
+608,"Awful customer service, no help whatsoever. Awful.",negative,1,Toys
+434,The quality exceeded my expectations completely. 10/10!,positive,5,Beauty
+52,"Highly satisfied customer, great product overall. Amazing!",positive,4,Automotive
+1200,"Regret buying this, complete waste of money. Garbage.",negative,1,Electronics
+1129,Stopped working within a week of purchase. Garbage.,negative,1,Electronics
+1191,"Worst purchase ever, totally useless product. Awful.",negative,2,Sports
+1250,"Delivery was fine, product is functional enough. Your call.",neutral,3,Beauty
+1420,"Neither great nor terrible, just okay overall. It is alright.",neutral,3,Clothing
+433,"Perfect in every way, could not ask for more. Highly recommended!",positive,4,Clothing
+1453,Mediocre quality but works for now. Average.,neutral,3,Sports
+1471,"Average product, does the job I suppose. Fair enough.",neutral,3,Electronics
+1235,"Neither great nor terrible, just okay overall. It is alright.",neutral,3,Books
+1282,"Meets basic requirements, nothing more to say. It is alright.",neutral,3,Sports
+1086,"Absolute nightmare, returning this immediately. Awful.",negative,2,Electronics
+611,"Terrible product, broke after just one day of use. Never again.",negative,1,Automotive
+1285,"Standard quality product, as expected for price. Maybe try it.",neutral,3,Automotive
+1042,Overpriced junk that does not function at all. Garbage.,negative,1,Sports
+221,"Perfect in every way, could not ask for more. Highly recommended!",positive,5,Clothing
+340,"Works like a charm, absolutely fantastic. Loved it.",positive,5,Books
+424,"Simply outstanding, exceeded all my hopes. Amazing!",positive,5,Books
+429,Great craftsmanship and very durable product. Highly recommended!,positive,5,Sports
+1106,"Horrible experience, would never buy again. Very bad.",negative,2,Clothing
+77,"Works like a charm, absolutely fantastic. Highly recommended!",positive,5,Electronics
+1392,Mediocre quality but works for now. It is alright.,neutral,3,Home & Kitchen
+440,"Simply outstanding, exceeded all my hopes. Loved it.",positive,5,Sports
+1337,Works fine for occasional use I suppose. It is alright.,neutral,3,Electronics
+865,"Horrible experience, would never buy again. Never again.",negative,1,Home & Kitchen
+1081,"Worst purchase ever, totally useless product. Awful.",negative,1,Clothing
+355,"This changed my life, absolutely brilliant product. Highly recommended!",positive,5,Electronics
+366,"Simply outstanding, exceeded all my hopes. Highly recommended!",positive,5,Electronics
+310,"Works like a charm, absolutely fantastic. 10/10!",positive,5,Electronics
+737,"Terrible product, broke after just one day of use. Never again.",negative,2,Home & Kitchen
+999,"Absolute nightmare, returning this immediately. Awful.",negative,1,Clothing
+622,"Worst purchase ever, totally useless product. Very bad.",negative,1,Toys
+544,"Best purchase I have ever made, works perfectly. Loved it.",positive,5,Beauty
+1141,Stopped working within a week of purchase. Garbage.,negative,2,Home & Kitchen
+1297,Mediocre quality but works for now. Average.,neutral,3,Clothing
+555,"Delighted with this purchase, thank you so much. Highly recommended!",positive,5,Toys
+680,"Low quality materials, very bad build. Garbage.",negative,1,Clothing
+50,"Excellent value for money, very happy with my purchase. Amazing!",positive,5,Beauty
+491,"Superb quality and fast delivery, very satisfied. Highly recommended!",positive,5,Automotive
+317,Outstanding customer service and great product quality. Loved it.,positive,4,Electronics
+905,Stopped working within a week of purchase. Very bad.,negative,1,Toys
+637,Stopped working within a week of purchase. Very bad.,negative,1,Home & Kitchen
+561,Really impressed with how well this works. Highly recommended!,positive,5,Automotive
+487,"Highly satisfied customer, great product overall. Highly recommended!",positive,4,Automotive
+68,Wonderful experience from start to finish. Great!,positive,4,Home & Kitchen
+812,Extremely unhappy with this purchase. Zero stars.,negative,1,Sports
+494,"This changed my life, absolutely brilliant product. Amazing!",positive,5,Toys
+311,"Superb quality and fast delivery, very satisfied. 10/10!",positive,5,Toys
+1097,The product is dangerous and poorly made. Zero stars.,negative,1,Clothing
+1248,"Average product, does the job I suppose. Your call.",neutral,3,Electronics
+185,"Excellent value for money, very happy with my purchase. Great!",positive,5,Beauty
+307,The best thing I have bought this year. Loved it.,positive,5,Books
+853,Terrible smell and poor packaging overall. Zero stars.,negative,1,Beauty
+793,"Very poor quality, fell apart immediately. Zero stars.",negative,1,Automotive
+290,"Fantastic experience, highly recommend to everyone. Amazing!",positive,5,Beauty
+707,"Broke immediately, absolutely worthless. Never again.",negative,1,Automotive
+1330,Mediocre quality but works for now. It is alright.,neutral,3,Books
+655,Terrible smell and poor packaging overall. Awful.,negative,2,Books
+523,"Perfect in every way, could not ask for more. 10/10!",positive,5,Clothing
+462,The quality exceeded my expectations completely. Amazing!,positive,5,Automotive
+931,"Horrible experience, would never buy again. Zero stars.",negative,2,Clothing
+1035,"Low quality materials, very bad build. Never again.",negative,1,Sports
+30,Great craftsmanship and very durable product. Great!,positive,5,Books
+241,"Highly satisfied customer, great product overall. Loved it.",positive,5,Home & Kitchen
+799,"Complete garbage, avoid at all costs. Never again.",negative,2,Beauty
+818,The product is dangerous and poorly made. Zero stars.,negative,1,Electronics
+66,"Fantastic experience, highly recommend to everyone. Highly recommended!",positive,5,Books
+602,Overpriced junk that does not function at all. Garbage.,negative,1,Sports
+925,"Regret buying this, complete waste of money. Never again.",negative,1,Home & Kitchen
+755,"Absolute nightmare, returning this immediately. Very bad.",negative,1,Electronics
+927,"Very poor quality, fell apart immediately. Awful.",negative,2,Toys
+1102,Overpriced junk that does not function at all. Garbage.,negative,1,Toys
+248,"Highly satisfied customer, great product overall. 10/10!",positive,5,Automotive
+278,"Fantastic experience, highly recommend to everyone. 10/10!",positive,5,Home & Kitchen
+1403,"It works as described, nothing special about it. Your call.",neutral,3,Clothing
+1067,"Defective product, very frustrating experience. Never again.",negative,1,Toys
+480,"Incredible performance, beats all competitors easily. 10/10!",positive,5,Books
+427,The quality exceeded my expectations completely. Amazing!,positive,5,Clothing
+124,Really impressed with how well this works. Amazing!,positive,5,Automotive
+1170,"Broke immediately, absolutely worthless. Garbage.",negative,1,Home & Kitchen
+395,The best thing I have bought this year. Great!,positive,5,Beauty
+986,"Complete garbage, avoid at all costs. Garbage.",negative,1,Sports
+716,Terrible smell and poor packaging overall. Zero stars.,negative,2,Clothing
+1135,Stopped working within a week of purchase. Very bad.,negative,2,Electronics
+1085,"Low quality materials, very bad build. Awful.",negative,2,Electronics
+498,"Superb quality and fast delivery, very satisfied. Amazing!",positive,5,Home & Kitchen
+45,"This product is absolutely amazing, I love it so much! Highly recommended!",positive,5,Home & Kitchen
+60,Five stars! Will definitely buy again. Amazing!,positive,5,Electronics
+1162,"Broke immediately, absolutely worthless. Garbage.",negative,1,Home & Kitchen
+24,Outstanding customer service and great product quality. Loved it.,positive,5,Sports
+875,"Regret buying this, complete waste of money. Never again.",negative,1,Home & Kitchen
+482,"Superb quality and fast delivery, very satisfied. Highly recommended!",positive,4,Home & Kitchen
+1325,"Delivery was fine, product is functional enough. Average.",neutral,3,Books
+746,"Broke immediately, absolutely worthless. Zero stars.",negative,1,Electronics
+232,"This product is absolutely amazing, I love it so much! Loved it.",positive,5,Beauty
+125,"Excellent value for money, very happy with my purchase. 10/10!",positive,5,Automotive
+428,The quality exceeded my expectations completely. 10/10!,positive,4,Toys
+819,"Nothing like described, very disappointing. Garbage.",negative,1,Automotive
+169,"Love everything about this, truly wonderful. Highly recommended!",positive,5,Toys
+116,"Excellent value for money, very happy with my purchase. Amazing!",positive,5,Books
+1089,"Regret buying this, complete waste of money. Garbage.",negative,2,Beauty
+987,"Regret buying this, complete waste of money. Awful.",negative,1,Books
+1396,"Does what it says, no more no less. Average.",neutral,3,Home & Kitchen
+1425,"Average product, does the job I suppose. It is alright.",neutral,3,Home & Kitchen
+416,"Simply outstanding, exceeded all my hopes. Loved it.",positive,5,Electronics
+142,Five stars! Will definitely buy again. Amazing!,positive,5,Toys
+1234,"It works as described, nothing special about it. Your call.",neutral,3,Electronics
+1294,"It is alright, not what I expected though. It is alright.",neutral,3,Toys
+763,The product is dangerous and poorly made. Never again.,negative,1,Electronics
+1207,"Does what it says, no more no less. Fair enough.",neutral,3,Clothing
+463,Five stars! Will definitely buy again. Highly recommended!,positive,4,Toys
+1244,"It works as described, nothing special about it. Maybe try it.",neutral,3,Clothing
+79,"Best purchase I have ever made, works perfectly. Highly recommended!",positive,5,Clothing
+1005,"Low quality materials, very bad build. Zero stars.",negative,1,Electronics
+1491,"Average product, does the job I suppose. Fair enough.",neutral,3,Books
+572,"Excellent value for money, very happy with my purchase. Highly recommended!",positive,5,Home & Kitchen
+16,"Incredible performance, beats all competitors easily. Loved it.",positive,5,Toys
+495,"Love everything about this, truly wonderful. Great!",positive,5,Beauty
+351,"Best purchase I have ever made, works perfectly. 10/10!",positive,5,Books
+1000,Stopped working within a week of purchase. Awful.,negative,1,Beauty
+275,"Best purchase I have ever made, works perfectly. 10/10!",positive,4,Toys
+1192,Customer support is nonexistent and unhelpful. Very bad.,negative,1,Toys
+272,"Highly satisfied customer, great product overall. Great!",positive,5,Automotive
+1474,Mediocre quality but works for now. Fair enough.,neutral,3,Electronics
+238,"Best purchase I have ever made, works perfectly. Great!",positive,5,Automotive
+586,"Fantastic experience, highly recommend to everyone. Great!",positive,5,Beauty
+1313,Acceptable for the price point given. It is alright.,neutral,3,Clothing
+695,"Regret buying this, complete waste of money. Awful.",negative,1,Home & Kitchen
+1002,"Defective product, very frustrating experience. Awful.",negative,2,Home & Kitchen
+323,Wonderful experience from start to finish. Highly recommended!,positive,4,Electronics
+783,The product is dangerous and poorly made. Zero stars.,negative,1,Beauty
+1359,Mediocre quality but works for now. Your call.,neutral,3,Clothing
+1204,"Delivery was fine, product is functional enough. Fair enough.",neutral,3,Books
+971,"Completely disappointed, total waste of money. Awful.",negative,1,Electronics
+1467,"Average product, does the job I suppose. It is alright.",neutral,3,Toys
+527,"Works like a charm, absolutely fantastic. 10/10!",positive,5,Beauty
+1426,"It works as described, nothing special about it. Fair enough.",neutral,3,Toys
+1171,Customer support is nonexistent and unhelpful. Very bad.,negative,1,Automotive
+176,Five stars! Will definitely buy again. 10/10!,positive,5,Home & Kitchen
+359,"Love everything about this, truly wonderful. Amazing!",positive,4,Clothing
+44,"Excellent value for money, very happy with my purchase. Loved it.",positive,5,Books
+417,"Works like a charm, absolutely fantastic. Amazing!",positive,5,Electronics
+345,"Love everything about this, truly wonderful. Amazing!",positive,4,Automotive
+1027,Overpriced junk that does not function at all. Awful.,negative,1,Automotive
+1402,Mediocre quality but works for now. Fair enough.,neutral,3,Clothing
+102,"Highly satisfied customer, great product overall. Highly recommended!",positive,5,Books
+108,Five stars! Will definitely buy again. Amazing!,positive,5,Beauty
+1490,"It is alright, not what I expected though. Maybe try it.",neutral,3,Sports
+1053,"Nothing like described, very disappointing. Very bad.",negative,2,Home & Kitchen
+965,"Awful customer service, no help whatsoever. Never again.",negative,1,Automotive
+381,Wonderful experience from start to finish. Great!,positive,5,Toys
+245,"Perfect in every way, could not ask for more. 10/10!",positive,5,Automotive
+1100,"Regret buying this, complete waste of money. Very bad.",negative,1,Books
+501,"Fantastic experience, highly recommend to everyone. Highly recommended!",positive,5,Home & Kitchen
+701,"Very poor quality, fell apart immediately. Zero stars.",negative,1,Beauty
+129,"Excellent value for money, very happy with my purchase. Amazing!",positive,5,Clothing
+240,"Fantastic experience, highly recommend to everyone. 10/10!",positive,5,Toys
+1115,"Worst purchase ever, totally useless product. Awful.",negative,2,Electronics
+683,"Regret buying this, complete waste of money. Very bad.",negative,1,Electronics
+483,"Delighted with this purchase, thank you so much. Amazing!",positive,5,Clothing
+1306,"Does what it says, no more no less. Your call.",neutral,3,Toys
+276,Wonderful experience from start to finish. 10/10!,positive,4,Home & Kitchen
+583,The best thing I have bought this year. Amazing!,positive,5,Clothing
+204,"Simply outstanding, exceeded all my hopes. Amazing!",positive,5,Sports
+33,"Simply outstanding, exceeded all my hopes. Loved it.",positive,5,Books
+1320,"Meets basic requirements, nothing more to say. Your call.",neutral,3,Books
+814,"Absolute nightmare, returning this immediately. Very bad.",negative,2,Home & Kitchen
+998,"Regret buying this, complete waste of money. Zero stars.",negative,1,Beauty
+382,"This product is absolutely amazing, I love it so much! 10/10!",positive,5,Books
+1074,"Completely disappointed, total waste of money. Never again.",negative,1,Home & Kitchen
+1349,"Product arrived on time, seems okay so far. Fair enough.",neutral,3,Toys
+579,"Superb quality and fast delivery, very satisfied. Highly recommended!",positive,5,Beauty
+888,"Low quality materials, very bad build. Very bad.",negative,1,Toys
+1326,Mediocre quality but works for now. Your call.,neutral,3,Beauty
+1327,"Delivery was fine, product is functional enough. Average.",neutral,3,Home & Kitchen
+942,"Worst purchase ever, totally useless product. Zero stars.",negative,1,Toys
+164,"This changed my life, absolutely brilliant product. 10/10!",positive,4,Sports
+910,"Regret buying this, complete waste of money. Awful.",negative,2,Toys
+298,"Perfect in every way, could not ask for more. Amazing!",positive,4,Beauty
+756,"Does not work as advertised, very misleading. Awful.",negative,2,Electronics
+406,"Highly satisfied customer, great product overall. Amazing!",positive,5,Automotive
+969,"Nothing like described, very disappointing. Awful.",negative,2,Beauty
+606,"Does not work as advertised, very misleading. Very bad.",negative,2,Home & Kitchen
+421,The quality exceeded my expectations completely. Highly recommended!,positive,5,Clothing
+465,"Love everything about this, truly wonderful. Highly recommended!",positive,4,Electronics
+1188,"Terrible product, broke after just one day of use. Zero stars.",negative,1,Books
+940,Stopped working within a week of purchase. Zero stars.,negative,2,Sports
+193,"Excellent value for money, very happy with my purchase. 10/10!",positive,5,Sports
+675,"Absolute nightmare, returning this immediately. Zero stars.",negative,2,Sports
+352,"Fantastic experience, highly recommend to everyone. Loved it.",positive,5,Automotive
+859,"Does not work as advertised, very misleading. Awful.",negative,1,Books
+64,"Fantastic experience, highly recommend to everyone. Highly recommended!",positive,5,Electronics
+1174,"Low quality materials, very bad build. Zero stars.",negative,2,Books
+766,The product is dangerous and poorly made. Awful.,negative,1,Electronics
+1441,"Average product, does the job I suppose. Your call.",neutral,3,Electronics
+262,"Excellent value for money, very happy with my purchase. Amazing!",positive,4,Toys
+343,The best thing I have bought this year. Amazing!,positive,5,Sports
+1221,"Standard quality product, as expected for price. Average.",neutral,3,Books
+472,"This changed my life, absolutely brilliant product. Highly recommended!",positive,5,Toys
+1335,"Does what it says, no more no less. Average.",neutral,3,Home & Kitchen
+199,"Superb quality and fast delivery, very satisfied. Highly recommended!",positive,5,Automotive
+1232,"Average product, does the job I suppose. Average.",neutral,3,Toys
+918,Overpriced junk that does not function at all. Zero stars.,negative,2,Home & Kitchen
+744,Customer support is nonexistent and unhelpful. Zero stars.,negative,1,Automotive
+571,Five stars! Will definitely buy again. Loved it.,positive,5,Books
+219,Outstanding customer service and great product quality. Amazing!,positive,5,Sports
+454,"This changed my life, absolutely brilliant product. 10/10!",positive,5,Beauty
+31,"This changed my life, absolutely brilliant product. Great!",positive,5,Sports
+57,The quality exceeded my expectations completely. Amazing!,positive,4,Books
+1211,"It works as described, nothing special about it. Maybe try it.",neutral,3,Books
+1386,Works fine for occasional use I suppose. It is alright.,neutral,3,Clothing
+1066,"Nothing like described, very disappointing. Zero stars.",negative,2,Home & Kitchen
+431,"Best purchase I have ever made, works perfectly. Loved it.",positive,5,Clothing
+725,"Awful customer service, no help whatsoever. Garbage.",negative,1,Books
+1145,"Does not work as advertised, very misleading. Never again.",negative,2,Clothing
+1006,"Does not work as advertised, very misleading. Very bad.",negative,1,Automotive
+1051,Terrible smell and poor packaging overall. Never again.,negative,1,Electronics
+1346,Mediocre quality but works for now. Fair enough.,neutral,3,Automotive
+1237,"Meets basic requirements, nothing more to say. Average.",neutral,3,Sports
+1236,Mediocre quality but works for now. Fair enough.,neutral,3,Sports
+1449,"Neither great nor terrible, just okay overall. It is alright.",neutral,3,Clothing
+621,"Terrible product, broke after just one day of use. Awful.",negative,2,Toys
+1068,Extremely unhappy with this purchase. Very bad.,negative,2,Automotive
+839,"Horrible experience, would never buy again. Never again.",negative,1,Clothing
+100,"Delighted with this purchase, thank you so much. 10/10!",positive,4,Electronics
+533,Five stars! Will definitely buy again. Highly recommended!,positive,4,Automotive
+529,"Simply outstanding, exceeded all my hopes. Amazing!",positive,4,Toys
+1347,Works fine for occasional use I suppose. Average.,neutral,3,Books
+1173,"Horrible experience, would never buy again. Very bad.",negative,2,Toys
+1179,Stopped working within a week of purchase. Very bad.,negative,1,Beauty
+630,"Complete garbage, avoid at all costs. Garbage.",negative,1,Home & Kitchen
+1028,Overpriced junk that does not function at all. Very bad.,negative,1,Clothing
+271,"Perfect in every way, could not ask for more. 10/10!",positive,5,Beauty
+1342,"Product arrived on time, seems okay so far. It is alright.",neutral,3,Toys
+627,Stopped working within a week of purchase. Zero stars.,negative,1,Books
+1043,"Terrible product, broke after just one day of use. Very bad.",negative,1,Books
+977,The product is dangerous and poorly made. Very bad.,negative,1,Books
+372,The best thing I have bought this year. Loved it.,positive,5,Toys
+589,"Fantastic experience, highly recommend to everyone. Highly recommended!",positive,5,Automotive
+968,"Terrible product, broke after just one day of use. Very bad.",negative,1,Clothing
+1166,Extremely unhappy with this purchase. Never again.,negative,1,Beauty
+1147,"Horrible experience, would never buy again. Awful.",negative,1,Home & Kitchen
+237,"Love everything about this, truly wonderful. Loved it.",positive,5,Books
+597,"Love everything about this, truly wonderful. Great!",positive,4,Electronics
+963,"Worst purchase ever, totally useless product. Awful.",negative,1,Sports
+1446,Mediocre quality but works for now. Average.,neutral,3,Toys
+1164,Extremely unhappy with this purchase. Awful.,negative,2,Electronics
+591,"This product is absolutely amazing, I love it so much! Highly recommended!",positive,5,Sports
+209,Great craftsmanship and very durable product. Great!,positive,4,Automotive
+1075,The product is dangerous and poorly made. Awful.,negative,1,Books
+900,"Defective product, very frustrating experience. Never again.",negative,1,Sports
+354,"Incredible performance, beats all competitors easily. 10/10!",positive,5,Beauty
+59,Really impressed with how well this works. Amazing!,positive,5,Automotive
+304,"Highly satisfied customer, great product overall. 10/10!",positive,4,Beauty
+1448,"Standard quality product, as expected for price. Maybe try it.",neutral,3,Beauty
+844,"Terrible product, broke after just one day of use. Very bad.",negative,2,Beauty
+1262,Works fine for occasional use I suppose. Fair enough.,neutral,3,Toys
+1431,"Meets basic requirements, nothing more to say. Average.",neutral,3,Clothing
+1210,"Delivery was fine, product is functional enough. Average.",neutral,3,Toys
+368,Really impressed with how well this works. Loved it.,positive,5,Clothing
+1358,"Neither great nor terrible, just okay overall. Maybe try it.",neutral,3,Beauty
+1198,Overpriced junk that does not function at all. Never again.,negative,1,Automotive
+1305,Acceptable for the price point given. Fair enough.,neutral,3,Automotive
+1233,"Neither great nor terrible, just okay overall. Fair enough.",neutral,3,Electronics
+705,"Broke immediately, absolutely worthless. Garbage.",negative,1,Beauty
+234,"Works like a charm, absolutely fantastic. Amazing!",positive,5,Books
+619,"Very poor quality, fell apart immediately. Zero stars.",negative,1,Books
+197,Really impressed with how well this works. 10/10!,positive,5,Sports
+1260,"It is alright, not what I expected though. Average.",neutral,3,Beauty
+82,"Fantastic experience, highly recommend to everyone. Great!",positive,5,Beauty
+1405,"Does what it says, no more no less. Your call.",neutral,3,Home & Kitchen
+598,Wonderful experience from start to finish. Amazing!,positive,5,Beauty
+1157,"Awful customer service, no help whatsoever. Very bad.",negative,2,Electronics
+112,"Perfect in every way, could not ask for more. Amazing!",positive,5,Home & Kitchen
+1277,"Meets basic requirements, nothing more to say. Maybe try it.",neutral,3,Clothing
+781,"Nothing like described, very disappointing. Awful.",negative,1,Toys
+984,Stopped working within a week of purchase. Zero stars.,negative,2,Books
+800,"Completely disappointed, total waste of money. Never again.",negative,1,Sports
+1266,Works fine for occasional use I suppose. Fair enough.,neutral,3,Electronics
+1151,"Defective product, very frustrating experience. Garbage.",negative,1,Books
+825,"Complete garbage, avoid at all costs. Never again.",negative,1,Electronics
+383,Outstanding customer service and great product quality. Loved it.,positive,5,Electronics
+539,"Highly satisfied customer, great product overall. 10/10!",positive,4,Books
+1494,"Average product, does the job I suppose. Fair enough.",neutral,3,Home & Kitchen
+1113,"Absolute nightmare, returning this immediately. Awful.",negative,1,Sports
+325,"Superb quality and fast delivery, very satisfied. 10/10!",positive,4,Toys
+362,"Simply outstanding, exceeded all my hopes. 10/10!",positive,5,Electronics
+1488,"Meets basic requirements, nothing more to say. Your call.",neutral,3,Home & Kitchen
+1030,Terrible smell and poor packaging overall. Very bad.,negative,2,Automotive
+708,"Defective product, very frustrating experience. Very bad.",negative,2,Electronics
+333,The quality exceeded my expectations completely. Amazing!,positive,5,Books
+430,Really impressed with how well this works. Loved it.,positive,5,Toys
+1243,"Average product, does the job I suppose. Fair enough.",neutral,3,Beauty
+426,The best thing I have bought this year. Loved it.,positive,5,Books
+629,Stopped working within a week of purchase. Awful.,negative,1,Toys
+1112,Customer support is nonexistent and unhelpful. Awful.,negative,2,Clothing
+678,"Does not work as advertised, very misleading. Never again.",negative,2,Clothing
+694,"Regret buying this, complete waste of money. Never again.",negative,1,Toys
+758,"Nothing like described, very disappointing. Very bad.",negative,1,Sports
+255,"Best purchase I have ever made, works perfectly. Great!",positive,5,Sports
+1095,Customer support is nonexistent and unhelpful. Awful.,negative,1,Sports
+917,"Terrible product, broke after just one day of use. Garbage.",negative,1,Electronics
+1186,"Absolute nightmare, returning this immediately. Very bad.",negative,2,Home & Kitchen
+669,"Worst purchase ever, totally useless product. Very bad.",negative,2,Books
+842,Overpriced junk that does not function at all. Zero stars.,negative,1,Beauty
+807,"Worst purchase ever, totally useless product. Zero stars.",negative,1,Automotive
+1457,"Delivery was fine, product is functional enough. Maybe try it.",neutral,3,Books
+87,"Delighted with this purchase, thank you so much. Highly recommended!",positive,5,Clothing
+1422,Works fine for occasional use I suppose. It is alright.,neutral,3,Books
+266,"This product is absolutely amazing, I love it so much! Highly recommended!",positive,5,Toys
+288,"Perfect in every way, could not ask for more. Highly recommended!",positive,4,Home & Kitchen
+1484,Mediocre quality but works for now. Average.,neutral,3,Books
+893,Overpriced junk that does not function at all. Awful.,negative,2,Sports
+1496,"Product arrived on time, seems okay so far. Your call.",neutral,3,Electronics
+979,"Absolute nightmare, returning this immediately. Zero stars.",negative,2,Sports
+535,Outstanding customer service and great product quality. Highly recommended!,positive,5,Beauty
+1001,"Completely disappointed, total waste of money. Awful.",negative,2,Sports
+222,Five stars! Will definitely buy again. Highly recommended!,positive,4,Clothing
+114,The quality exceeded my expectations completely. Loved it.,positive,5,Sports
+673,"Low quality materials, very bad build. Very bad.",negative,2,Beauty
+584,Really impressed with how well this works. Loved it.,positive,5,Automotive
+175,The best thing I have bought this year. 10/10!,positive,4,Sports
+536,"Delighted with this purchase, thank you so much. Great!",positive,5,Automotive
+1079,Terrible smell and poor packaging overall. Awful.,negative,1,Clothing
+1177,Customer support is nonexistent and unhelpful. Very bad.,negative,1,Electronics
+1107,Overpriced junk that does not function at all. Never again.,negative,1,Toys
+983,"Terrible product, broke after just one day of use. Awful.",negative,2,Books
+286,"Highly satisfied customer, great product overall. Highly recommended!",positive,4,Books
+868,"Worst purchase ever, totally useless product. Never again.",negative,1,Automotive
+375,"Fantastic experience, highly recommend to everyone. Amazing!",positive,4,Toys
+1197,"Very poor quality, fell apart immediately. Very bad.",negative,2,Sports
+32,Really impressed with how well this works. Amazing!,positive,5,Electronics
+552,"Fantastic experience, highly recommend to everyone. Amazing!",positive,5,Automotive
+211,Wonderful experience from start to finish. Highly recommended!,positive,5,Electronics
+1047,"Horrible experience, would never buy again. Zero stars.",negative,1,Electronics
+924,"Broke immediately, absolutely worthless. Garbage.",negative,1,Beauty
+810,Terrible smell and poor packaging overall. Garbage.,negative,1,Automotive
+618,"Horrible experience, would never buy again. Garbage.",negative,1,Toys
+933,"Defective product, very frustrating experience. Zero stars.",negative,2,Electronics
+620,Terrible smell and poor packaging overall. Garbage.,negative,1,Beauty
+189,Five stars! Will definitely buy again. Loved it.,positive,4,Sports
+711,Extremely unhappy with this purchase. Garbage.,negative,1,Sports
+937,"Complete garbage, avoid at all costs. Very bad.",negative,2,Automotive
+1169,Terrible smell and poor packaging overall. Very bad.,negative,2,Toys
+1220,Mediocre quality but works for now. Maybe try it.,neutral,3,Electronics
+1098,"Complete garbage, avoid at all costs. Very bad.",negative,1,Sports
+902,"Horrible experience, would never buy again. Garbage.",negative,1,Toys
+84,"Superb quality and fast delivery, very satisfied. Loved it.",positive,5,Automotive
+702,"Broke immediately, absolutely worthless. Zero stars.",negative,1,Clothing
+49,Five stars! Will definitely buy again. Highly recommended!,positive,5,Clothing
+1284,"It works as described, nothing special about it. Your call.",neutral,3,Electronics
+156,"Highly satisfied customer, great product overall. Amazing!",positive,5,Books
+1152,"Low quality materials, very bad build. Garbage.",negative,1,Clothing
+1142,"Does not work as advertised, very misleading. Garbage.",negative,1,Electronics
+975,Terrible smell and poor packaging overall. Awful.,negative,2,Sports
+1058,"Does not work as advertised, very misleading. Very bad.",negative,1,Sports
+808,"Worst purchase ever, totally useless product. Never again.",negative,1,Books
+1230,"Delivery was fine, product is functional enough. Your call.",neutral,3,Clothing
+1481,Works fine for occasional use I suppose. Average.,neutral,3,Sports
+1437,"Does what it says, no more no less. It is alright.",neutral,3,Home & Kitchen
+180,"Delighted with this purchase, thank you so much. 10/10!",positive,5,Automotive
+1356,"Average product, does the job I suppose. Your call.",neutral,3,Toys
+1247,Works fine for occasional use I suppose. Fair enough.,neutral,3,Automotive
+1041,"Very poor quality, fell apart immediately. Never again.",negative,2,Automotive
+950,"Defective product, very frustrating experience. Garbage.",negative,1,Automotive
+817,"Low quality materials, very bad build. Zero stars.",negative,1,Beauty
+364,The best thing I have bought this year. Loved it.,positive,5,Home & Kitchen
+1178,"Low quality materials, very bad build. Awful.",negative,1,Books
+1199,Overpriced junk that does not function at all. Garbage.,negative,1,Home & Kitchen
+347,The quality exceeded my expectations completely. Highly recommended!,positive,5,Beauty
+1011,Overpriced junk that does not function at all. Garbage.,negative,1,Books
+615,"Worst purchase ever, totally useless product. Awful.",negative,1,Sports
+966,Extremely unhappy with this purchase. Zero stars.,negative,1,Beauty
+1274,"Delivery was fine, product is functional enough. Maybe try it.",neutral,3,Clothing
+590,"This product is absolutely amazing, I love it so much! Great!",positive,4,Beauty
+1289,Mediocre quality but works for now. Maybe try it.,neutral,3,Home & Kitchen
+632,"Low quality materials, very bad build. Never again.",negative,1,Beauty
+244,The best thing I have bought this year. Highly recommended!,positive,5,Clothing
+1375,"Does what it says, no more no less. Your call.",neutral,3,Electronics
+1452,"It works as described, nothing special about it. Average.",neutral,3,Books
+765,"Broke immediately, absolutely worthless. Awful.",negative,1,Books
+988,"Completely disappointed, total waste of money. Never again.",negative,2,Toys
+412,"Perfect in every way, could not ask for more. Highly recommended!",positive,5,Beauty
+1421,"Neither great nor terrible, just okay overall. Average.",neutral,3,Electronics
+1226,"Standard quality product, as expected for price. Fair enough.",neutral,3,Toys
+309,"Delighted with this purchase, thank you so much. Loved it.",positive,4,Beauty
+882,"Completely disappointed, total waste of money. Very bad.",negative,1,Clothing
+399,Really impressed with how well this works. Amazing!,positive,5,Automotive
+371,"Excellent value for money, very happy with my purchase. Highly recommended!",positive,5,Home & Kitchen
+55,Great craftsmanship and very durable product. Amazing!,positive,5,Clothing
+1339,"Neither great nor terrible, just okay overall. Maybe try it.",neutral,3,Sports
+1183,"Absolute nightmare, returning this immediately. Awful.",negative,2,Clothing
+313,The quality exceeded my expectations completely. Loved it.,positive,4,Electronics
+922,"Does not work as advertised, very misleading. Very bad.",negative,1,Electronics
+110,Great craftsmanship and very durable product. Great!,positive,5,Sports
+719,"Does not work as advertised, very misleading. Awful.",negative,2,Beauty
+692,"Completely disappointed, total waste of money. Garbage.",negative,1,Home & Kitchen
+101,"Works like a charm, absolutely fantastic. Amazing!",positive,5,Toys
+1126,Stopped working within a week of purchase. Zero stars.,negative,1,Books
+670,"Does not work as advertised, very misleading. Never again.",negative,1,Toys
+1376,"Does what it says, no more no less. Average.",neutral,3,Electronics
+267,The quality exceeded my expectations completely. Amazing!,positive,5,Sports
+679,"Low quality materials, very bad build. Garbage.",negative,2,Clothing
+297,"Perfect in every way, could not ask for more. Loved it.",positive,5,Beauty
+530,"Delighted with this purchase, thank you so much. Great!",positive,5,Electronics
+945,"Very poor quality, fell apart immediately. Garbage.",negative,2,Electronics
+1014,"Completely disappointed, total waste of money. Very bad.",negative,1,Electronics
+951,"Defective product, very frustrating experience. Zero stars.",negative,1,Books
+378,"Highly satisfied customer, great product overall. Great!",positive,5,Home & Kitchen
+287,The best thing I have bought this year. Amazing!,positive,4,Toys
+1439,Works fine for occasional use I suppose. Maybe try it.,neutral,3,Electronics
+731,Extremely unhappy with this purchase. Zero stars.,negative,2,Beauty
+127,"Excellent value for money, very happy with my purchase. 10/10!",positive,5,Toys
+328,The quality exceeded my expectations completely. Amazing!,positive,5,Electronics
+293,Outstanding customer service and great product quality. 10/10!,positive,5,Toys
+549,"Fantastic experience, highly recommend to everyone. Amazing!",positive,5,Electronics
+728,"Low quality materials, very bad build. Zero stars.",negative,1,Clothing
+909,Extremely unhappy with this purchase. Awful.,negative,1,Home & Kitchen
+356,The quality exceeded my expectations completely. 10/10!,positive,5,Books
+171,Great craftsmanship and very durable product. 10/10!,positive,5,Toys
+967,"Complete garbage, avoid at all costs. Zero stars.",negative,1,Clothing
+1134,"Low quality materials, very bad build. Never again.",negative,1,Toys
+652,"Nothing like described, very disappointing. Garbage.",negative,2,Automotive
+210,"This changed my life, absolutely brilliant product. 10/10!",positive,4,Toys
+1398,"Average product, does the job I suppose. Average.",neutral,3,Clothing
+141,"Fantastic experience, highly recommend to everyone. 10/10!",positive,5,Beauty
+1084,"Low quality materials, very bad build. Garbage.",negative,1,Toys
+991,"Does not work as advertised, very misleading. Never again.",negative,1,Toys
+651,"Broke immediately, absolutely worthless. Zero stars.",negative,1,Home & Kitchen
+1189,"Low quality materials, very bad build. Never again.",negative,1,Beauty
+1499,"Average product, does the job I suppose. Average.",neutral,3,Automotive
+486,"Highly satisfied customer, great product overall. Loved it.",positive,5,Beauty
+528,Great craftsmanship and very durable product. Loved it.,positive,4,Home & Kitchen
+200,The quality exceeded my expectations completely. Highly recommended!,positive,5,Electronics
+890,"Absolute nightmare, returning this immediately. Very bad.",negative,1,Beauty
+845,"Completely disappointed, total waste of money. Zero stars.",negative,2,Toys
+1069,"Terrible product, broke after just one day of use. Awful.",negative,1,Toys
+1206,Works fine for occasional use I suppose. Fair enough.,neutral,3,Toys
+1055,"Worst purchase ever, totally useless product. Zero stars.",negative,2,Clothing
+11,"Perfect in every way, could not ask for more. Highly recommended!",positive,5,Books
+148,The best thing I have bought this year. Great!,positive,5,Home & Kitchen
+722,Stopped working within a week of purchase. Awful.,negative,2,Clothing
+283,"Best purchase I have ever made, works perfectly. Great!",positive,4,Clothing
+299,"This changed my life, absolutely brilliant product. Amazing!",positive,5,Toys
+614,"Absolute nightmare, returning this immediately. Never again.",negative,2,Home & Kitchen
+292,The quality exceeded my expectations completely. 10/10!,positive,4,Clothing
+650,Terrible smell and poor packaging overall. Awful.,negative,1,Electronics
+599,"Fantastic experience, highly recommend to everyone. Great!",positive,4,Clothing
+1044,"Low quality materials, very bad build. Zero stars.",negative,2,Electronics
+553,Great craftsmanship and very durable product. Loved it.,positive,5,Electronics
+1299,"It works as described, nothing special about it. Average.",neutral,3,Toys
+130,The quality exceeded my expectations completely. Amazing!,positive,5,Beauty
+1062,Customer support is nonexistent and unhelpful. Never again.,negative,2,Books
+332,"This changed my life, absolutely brilliant product. Loved it.",positive,5,Automotive
+324,Five stars! Will definitely buy again. 10/10!,positive,5,Home & Kitchen
+681,Customer support is nonexistent and unhelpful. Zero stars.,negative,1,Clothing
+479,"Delighted with this purchase, thank you so much. 10/10!",positive,4,Automotive
+562,"Excellent value for money, very happy with my purchase. 10/10!",positive,5,Clothing
+136,"Excellent value for money, very happy with my purchase. 10/10!",positive,5,Beauty
+507,Great craftsmanship and very durable product. Great!,positive,5,Clothing
+514,"Superb quality and fast delivery, very satisfied. Loved it.",positive,5,Electronics
+1372,"Neither great nor terrible, just okay overall. It is alright.",neutral,3,Automotive
+436,Outstanding customer service and great product quality. 10/10!,positive,5,Books
+874,"Regret buying this, complete waste of money. Awful.",negative,1,Sports
+1463,"It works as described, nothing special about it. Fair enough.",neutral,3,Toys
+753,Terrible smell and poor packaging overall. Zero stars.,negative,1,Electronics
+666,"Absolute nightmare, returning this immediately. Zero stars.",negative,2,Automotive
+159,"Perfect in every way, could not ask for more. Amazing!",positive,5,Sports
+1254,"It is alright, not what I expected though. It is alright.",neutral,3,Sports
+1293,"Product arrived on time, seems okay so far. Your call.",neutral,3,Books
+576,"Best purchase I have ever made, works perfectly. Amazing!",positive,5,Toys
+353,"Simply outstanding, exceeded all my hopes. Highly recommended!",positive,5,Clothing
+938,"Nothing like described, very disappointing. Very bad.",negative,1,Sports
+1296,"Delivery was fine, product is functional enough. Maybe try it.",neutral,3,Electronics
+1393,"Delivery was fine, product is functional enough. Average.",neutral,3,Clothing
+1301,"Average product, does the job I suppose. It is alright.",neutral,3,Home & Kitchen
+592,"This product is absolutely amazing, I love it so much! Highly recommended!",positive,5,Beauty
+665,Terrible smell and poor packaging overall. Garbage.,negative,2,Electronics
+196,"Superb quality and fast delivery, very satisfied. Loved it.",positive,4,Books
+1241,Mediocre quality but works for now. It is alright.,neutral,3,Books
+1049,Customer support is nonexistent and unhelpful. Garbage.,negative,2,Home & Kitchen
+439,"Highly satisfied customer, great product overall. Highly recommended!",positive,4,Electronics
+1436,Works fine for occasional use I suppose. It is alright.,neutral,3,Automotive
+644,"Awful customer service, no help whatsoever. Garbage.",negative,1,Beauty
+97,Wonderful experience from start to finish. 10/10!,positive,4,Sports
+585,Great craftsmanship and very durable product. Great!,positive,4,Electronics
+1215,Acceptable for the price point given. Fair enough.,neutral,3,Beauty
+157,"Incredible performance, beats all competitors easily. Amazing!",positive,5,Clothing
+420,"Perfect in every way, could not ask for more. 10/10!",positive,5,Toys
+411,The quality exceeded my expectations completely. 10/10!,positive,5,Sports
+1223,Acceptable for the price point given. Fair enough.,neutral,3,Home & Kitchen
+478,"Works like a charm, absolutely fantastic. 10/10!",positive,5,Toys
+515,"Love everything about this, truly wonderful. Highly recommended!",positive,5,Home & Kitchen
+1286,"Delivery was fine, product is functional enough. Fair enough.",neutral,3,Beauty
+1454,"Does what it says, no more no less. Fair enough.",neutral,3,Sports
+1119,"Low quality materials, very bad build. Zero stars.",negative,1,Sports
+448,Five stars! Will definitely buy again. Highly recommended!,positive,4,Beauty
+179,Outstanding customer service and great product quality. Amazing!,positive,4,Books
+391,Outstanding customer service and great product quality. 10/10!,positive,4,Beauty
+1290,"Standard quality product, as expected for price. Fair enough.",neutral,3,Toys
+1308,"It works as described, nothing special about it. Average.",neutral,3,Clothing
+1367,"Meets basic requirements, nothing more to say. Average.",neutral,3,Automotive
+1048,"Regret buying this, complete waste of money. Awful.",negative,2,Home & Kitchen
+1143,"Completely disappointed, total waste of money. Zero stars.",negative,1,Clothing
+635,"Absolute nightmare, returning this immediately. Zero stars.",negative,1,Automotive
+866,"Completely disappointed, total waste of money. Garbage.",negative,1,Automotive
+788,"Low quality materials, very bad build. Awful.",negative,1,Electronics
+745,"Terrible product, broke after just one day of use. Very bad.",negative,1,Books
+860,"Absolute nightmare, returning this immediately. Very bad.",negative,2,Automotive
+295,"Simply outstanding, exceeded all my hopes. Highly recommended!",positive,4,Beauty
+545,"Excellent value for money, very happy with my purchase. Great!",positive,5,Electronics
+1363,"Meets basic requirements, nothing more to say. Average.",neutral,3,Books
+89,"Fantastic experience, highly recommend to everyone. 10/10!",positive,5,Home & Kitchen
+1032,"Awful customer service, no help whatsoever. Awful.",negative,2,Beauty
+1380,"It is alright, not what I expected though. Fair enough.",neutral,3,Toys
+577,"Incredible performance, beats all competitors easily. 10/10!",positive,4,Beauty
+907,The product is dangerous and poorly made. Garbage.,negative,2,Clothing
+1388,"Delivery was fine, product is functional enough. Average.",neutral,3,Sports
+1092,"Horrible experience, would never buy again. Zero stars.",negative,2,Sports
+944,"Broke immediately, absolutely worthless. Very bad.",negative,1,Sports
+291,"Best purchase I have ever made, works perfectly. Amazing!",positive,4,Automotive
+1419,"Neither great nor terrible, just okay overall. It is alright.",neutral,3,Beauty
+1019,"Nothing like described, very disappointing. Garbage.",negative,1,Books
+349,"Delighted with this purchase, thank you so much. Loved it.",positive,5,Toys
+568,Wonderful experience from start to finish. Highly recommended!,positive,4,Electronics
+1413,Mediocre quality but works for now. Fair enough.,neutral,3,Automotive
+1059,"Defective product, very frustrating experience. Garbage.",negative,1,Clothing
+600,The best thing I have bought this year. Amazing!,positive,4,Toys
+459,"Excellent value for money, very happy with my purchase. Loved it.",positive,5,Toys
+376,"Simply outstanding, exceeded all my hopes. Great!",positive,4,Sports
+334,"Highly satisfied customer, great product overall. Highly recommended!",positive,4,Beauty
+757,"Awful customer service, no help whatsoever. Awful.",negative,1,Clothing
+1324,Mediocre quality but works for now. Maybe try it.,neutral,3,Sports
+712,"Horrible experience, would never buy again. Never again.",negative,2,Clothing
+1390,Acceptable for the price point given. Fair enough.,neutral,3,Home & Kitchen
+567,Great craftsmanship and very durable product. Loved it.,positive,5,Electronics
+329,"This product is absolutely amazing, I love it so much! Amazing!",positive,5,Books
+319,"Works like a charm, absolutely fantastic. Amazing!",positive,5,Beauty
+1303,"Product arrived on time, seems okay so far. It is alright.",neutral,3,Toys
+953,"Completely disappointed, total waste of money. Awful.",negative,1,Automotive
+13,"Delighted with this purchase, thank you so much. Loved it.",positive,4,Books
+172,"Superb quality and fast delivery, very satisfied. 10/10!",positive,5,Sports
+261,"Best purchase I have ever made, works perfectly. Amazing!",positive,5,Books
+820,Overpriced junk that does not function at all. Very bad.,negative,1,Toys
+1495,"It works as described, nothing special about it. Fair enough.",neutral,3,Toys
+797,"Does not work as advertised, very misleading. Never again.",negative,1,Electronics
+139,Wonderful experience from start to finish. Highly recommended!,positive,4,Electronics
+550,Five stars! Will definitely buy again. Great!,positive,4,Books
+616,"Low quality materials, very bad build. Zero stars.",negative,1,Beauty
+846,"Complete garbage, avoid at all costs. Very bad.",negative,1,Books
+778,"Nothing like described, very disappointing. Very bad.",negative,1,Automotive
+559,"Incredible performance, beats all competitors easily. Amazing!",positive,5,Toys
+140,"Highly satisfied customer, great product overall. Loved it.",positive,5,Automotive
+1310,"Product arrived on time, seems okay so far. Average.",neutral,3,Beauty
+1024,"Absolute nightmare, returning this immediately. Zero stars.",negative,1,Home & Kitchen
+225,Outstanding customer service and great product quality. Amazing!,positive,5,Automotive
+964,"Regret buying this, complete waste of money. Very bad.",negative,1,Toys
+410,Great craftsmanship and very durable product. 10/10!,positive,4,Toys
+326,"This product is absolutely amazing, I love it so much! Amazing!",positive,5,Beauty
+300,"Incredible performance, beats all competitors easily. Loved it.",positive,4,Automotive
+994,"Low quality materials, very bad build. Garbage.",negative,1,Sports
+1033,"Absolute nightmare, returning this immediately. Very bad.",negative,2,Toys
+671,"Regret buying this, complete waste of money. Awful.",negative,2,Sports
+1480,Acceptable for the price point given. Your call.,neutral,3,Home & Kitchen
+947,Extremely unhappy with this purchase. Very bad.,negative,2,Books
+1270,"Average product, does the job I suppose. It is alright.",neutral,3,Beauty
+574,Wonderful experience from start to finish. Amazing!,positive,5,Toys
+504,Great craftsmanship and very durable product. Loved it.,positive,5,Beauty
+1038,Customer support is nonexistent and unhelpful. Zero stars.,negative,1,Home & Kitchen
+4,The quality exceeded my expectations completely. Loved it.,positive,4,Home & Kitchen
+1469,Acceptable for the price point given. Average.,neutral,3,Electronics
+468,"Fantastic experience, highly recommend to everyone. Highly recommended!",positive,5,Home & Kitchen
+322,"Simply outstanding, exceeded all my hopes. 10/10!",positive,5,Electronics
+6,"Perfect in every way, could not ask for more. Highly recommended!",positive,4,Sports
+974,"Awful customer service, no help whatsoever. Zero stars.",negative,1,Electronics
+548,Outstanding customer service and great product quality. 10/10!,positive,4,Home & Kitchen
+1477,Acceptable for the price point given. Fair enough.,neutral,3,Clothing
+40,The best thing I have bought this year. Highly recommended!,positive,5,Clothing
+543,Wonderful experience from start to finish. Great!,positive,5,Clothing
+243,The quality exceeded my expectations completely. Highly recommended!,positive,5,Beauty
+137,"This product is absolutely amazing, I love it so much! Amazing!",positive,5,Toys
+603,"Worst purchase ever, totally useless product. Never again.",negative,1,Electronics
+773,The product is dangerous and poorly made. Awful.,negative,1,Beauty
+847,"Awful customer service, no help whatsoever. Never again.",negative,1,Books
+1091,"Complete garbage, avoid at all costs. Zero stars.",negative,2,Beauty
+1366,"Does what it says, no more no less. Maybe try it.",neutral,3,Sports
+582,Great craftsmanship and very durable product. 10/10!,positive,5,Sports
+1475,"Standard quality product, as expected for price. Maybe try it.",neutral,3,Automotive
+789,"Awful customer service, no help whatsoever. Zero stars.",negative,1,Sports
+1389,"It is alright, not what I expected though. Fair enough.",neutral,3,Beauty
+377,Really impressed with how well this works. 10/10!,positive,5,Automotive
+315,"Perfect in every way, could not ask for more. 10/10!",positive,5,Clothing
+443,Five stars! Will definitely buy again. Highly recommended!,positive,5,Sports
+320,Five stars! Will definitely buy again. Highly recommended!,positive,5,Books
+1479,Works fine for occasional use I suppose. Average.,neutral,3,Electronics
+794,"Defective product, very frustrating experience. Garbage.",negative,2,Books
+1133,"Broke immediately, absolutely worthless. Garbage.",negative,2,Home & Kitchen
+425,"Superb quality and fast delivery, very satisfied. Amazing!",positive,5,Home & Kitchen
+554,"Simply outstanding, exceeded all my hopes. 10/10!",positive,5,Home & Kitchen
+595,"Superb quality and fast delivery, very satisfied. Amazing!",positive,5,Books
+894,"Nothing like described, very disappointing. Garbage.",negative,1,Sports
+1482,"Average product, does the job I suppose. Maybe try it.",neutral,3,Clothing
+1218,"Standard quality product, as expected for price. Your call.",neutral,3,Automotive
+1165,The product is dangerous and poorly made. Awful.,negative,1,Electronics
+228,"Excellent value for money, very happy with my purchase. Amazing!",positive,5,Electronics
+715,"Does not work as advertised, very misleading. Garbage.",negative,1,Automotive
+811,"Low quality materials, very bad build. Garbage.",negative,1,Clothing
+980,Extremely unhappy with this purchase. Never again.,negative,1,Beauty
+1076,Customer support is nonexistent and unhelpful. Very bad.,negative,2,Electronics
+67,The quality exceeded my expectations completely. Highly recommended!,positive,5,Books
+394,"Simply outstanding, exceeded all my hopes. Highly recommended!",positive,5,Electronics
+580,Outstanding customer service and great product quality. Loved it.,positive,5,Toys
+990,"Completely disappointed, total waste of money. Awful.",negative,2,Clothing
+212,"Highly satisfied customer, great product overall. Great!",positive,5,Home & Kitchen
+1160,Stopped working within a week of purchase. Garbage.,negative,2,Toys
+782,"Low quality materials, very bad build. Never again.",negative,1,Books
+537,"This product is absolutely amazing, I love it so much! Amazing!",positive,4,Sports
+775,"Worst purchase ever, totally useless product. Very bad.",negative,1,Automotive
+662,"Does not work as advertised, very misleading. Very bad.",negative,1,Clothing
+86,Outstanding customer service and great product quality. Highly recommended!,positive,5,Electronics
+1350,"Standard quality product, as expected for price. Maybe try it.",neutral,3,Home & Kitchen
+1217,Works fine for occasional use I suppose. Average.,neutral,3,Electronics
+916,"Does not work as advertised, very misleading. Never again.",negative,1,Books
+661,"Very poor quality, fell apart immediately. Zero stars.",negative,2,Home & Kitchen
+1351,"It is alright, not what I expected though. It is alright.",neutral,3,Electronics
+631,"Very poor quality, fell apart immediately. Zero stars.",negative,1,Sports
+1034,"Low quality materials, very bad build. Garbage.",negative,1,Home & Kitchen
+1400,"Meets basic requirements, nothing more to say. Your call.",neutral,3,Electronics
+1093,"Nothing like described, very disappointing. Awful.",negative,1,Clothing
+274,"Perfect in every way, could not ask for more. Amazing!",positive,5,Home & Kitchen
+723,"Complete garbage, avoid at all costs. Very bad.",negative,1,Automotive
+363,"Love everything about this, truly wonderful. Loved it.",positive,5,Home & Kitchen
+623,"Terrible product, broke after just one day of use. Never again.",negative,1,Beauty
+3,"Delighted with this purchase, thank you so much. Amazing!",positive,4,Electronics
+7,Really impressed with how well this works. Amazing!,positive,5,Toys
+312,"This product is absolutely amazing, I love it so much! Loved it.",positive,5,Clothing
+1168,Overpriced junk that does not function at all. Never again.,negative,2,Sports
+939,Customer support is nonexistent and unhelpful. Zero stars.,negative,1,Sports
+1478,"Meets basic requirements, nothing more to say. Maybe try it.",neutral,3,Home & Kitchen
+216,"Works like a charm, absolutely fantastic. Loved it.",positive,5,Clothing
+1321,"Delivery was fine, product is functional enough. It is alright.",neutral,3,Books
+28,"Highly satisfied customer, great product overall. Highly recommended!",positive,5,Books
+1466,Works fine for occasional use I suppose. Maybe try it.,neutral,3,Clothing
+1025,"Low quality materials, very bad build. Zero stars.",negative,1,Automotive
+786,"Nothing like described, very disappointing. Garbage.",negative,2,Books
+639,"Very poor quality, fell apart immediately. Very bad.",negative,2,Home & Kitchen
+830,Extremely unhappy with this purchase. Garbage.,negative,1,Sports
+827,"Does not work as advertised, very misleading. Zero stars.",negative,2,Toys
+625,The product is dangerous and poorly made. Zero stars.,negative,1,Beauty
+850,"Broke immediately, absolutely worthless. Zero stars.",negative,2,Home & Kitchen
+257,The quality exceeded my expectations completely. 10/10!,positive,5,Toys
+26,Outstanding customer service and great product quality. Highly recommended!,positive,4,Automotive
+337,"Simply outstanding, exceeded all my hopes. Highly recommended!",positive,5,Home & Kitchen
+573,"Excellent value for money, very happy with my purchase. Highly recommended!",positive,5,Toys
+48,"Simply outstanding, exceeded all my hopes. Loved it.",positive,5,Sports
+107,"This changed my life, absolutely brilliant product. Amazing!",positive,5,Sports
+350,"Simply outstanding, exceeded all my hopes. Loved it.",positive,5,Electronics
+56,Really impressed with how well this works. 10/10!,positive,5,Automotive
+809,"Regret buying this, complete waste of money. Awful.",negative,2,Clothing
+214,Five stars! Will definitely buy again. 10/10!,positive,5,Clothing
+121,Great craftsmanship and very durable product. Loved it.,positive,5,Books
+870,"Horrible experience, would never buy again. Awful.",negative,1,Automotive
+856,"Regret buying this, complete waste of money. Awful.",negative,1,Electronics
+73,"Perfect in every way, could not ask for more. Highly recommended!",positive,4,Books
+1381,"Product arrived on time, seems okay so far. Fair enough.",neutral,3,Beauty
+721,"Worst purchase ever, totally useless product. Awful.",negative,1,Electronics
+46,"This product is absolutely amazing, I love it so much! Great!",positive,5,Electronics
+1264,"Product arrived on time, seems okay so far. Average.",neutral,3,Clothing
+524,"Simply outstanding, exceeded all my hopes. 10/10!",positive,5,Books
+869,"Very poor quality, fell apart immediately. Awful.",negative,1,Home & Kitchen
+1108,"Does not work as advertised, very misleading. Awful.",negative,1,Toys
+1275,"Neither great nor terrible, just okay overall. Maybe try it.",neutral,3,Automotive
+803,"Very poor quality, fell apart immediately. Zero stars.",negative,1,Books
+534,"Simply outstanding, exceeded all my hopes. Amazing!",positive,5,Electronics
+1138,"Awful customer service, no help whatsoever. Zero stars.",negative,1,Clothing
+604,"Defective product, very frustrating experience. Awful.",negative,2,Home & Kitchen
+466,"Highly satisfied customer, great product overall. Loved it.",positive,5,Sports
+1203,"Standard quality product, as expected for price. Fair enough.",neutral,3,Electronics
+1278,Acceptable for the price point given. Maybe try it.,neutral,3,Clothing
+1444,"Standard quality product, as expected for price. Your call.",neutral,3,Clothing
+989,"Defective product, very frustrating experience. Garbage.",negative,1,Books
+61,Wonderful experience from start to finish. Great!,positive,5,Beauty
+886,"Awful customer service, no help whatsoever. Very bad.",negative,1,Sports
+93,"Excellent value for money, very happy with my purchase. 10/10!",positive,4,Clothing
+667,Terrible smell and poor packaging overall. Garbage.,negative,2,Electronics
+706,"Worst purchase ever, totally useless product. Awful.",negative,2,Beauty
+195,"Highly satisfied customer, great product overall. Great!",positive,5,Home & Kitchen
+281,Outstanding customer service and great product quality. Highly recommended!,positive,5,Electronics
+696,Overpriced junk that does not function at all. Never again.,negative,1,Beauty
+360,"Love everything about this, truly wonderful. Highly recommended!",positive,5,Beauty
+520,"Perfect in every way, could not ask for more. 10/10!",positive,5,Toys
+813,"Regret buying this, complete waste of money. Zero stars.",negative,2,Electronics
+768,"Low quality materials, very bad build. Zero stars.",negative,1,Clothing
+183,Wonderful experience from start to finish. Amazing!,positive,4,Books
+1487,"Product arrived on time, seems okay so far. Average.",neutral,3,Sports
+111,Five stars! Will definitely buy again. Amazing!,positive,5,Toys
+43,"Incredible performance, beats all competitors easily. Amazing!",positive,4,Automotive
+1007,"Does not work as advertised, very misleading. Awful.",negative,1,Automotive
+205,"Delighted with this purchase, thank you so much. Amazing!",positive,4,Automotive
+821,"Broke immediately, absolutely worthless. Zero stars.",negative,1,Electronics
+53,"Best purchase I have ever made, works perfectly. Great!",positive,5,Beauty
+546,"Perfect in every way, could not ask for more. Highly recommended!",positive,5,Beauty
+1132,"Low quality materials, very bad build. Never again.",negative,2,Books
+1158,Terrible smell and poor packaging overall. Very bad.,negative,1,Beauty
+1468,"Standard quality product, as expected for price. Maybe try it.",neutral,3,Sports
+911,Extremely unhappy with this purchase. Never again.,negative,1,Toys
+184,Outstanding customer service and great product quality. Loved it.,positive,4,Sports
+138,Really impressed with how well this works. Amazing!,positive,4,Clothing
+1150,"Does not work as advertised, very misleading. Very bad.",negative,1,Sports
+81,Five stars! Will definitely buy again. 10/10!,positive,5,Automotive
+1213,"Meets basic requirements, nothing more to say. Average.",neutral,3,Toys
+106,"Best purchase I have ever made, works perfectly. 10/10!",positive,5,Sports
+542,"Incredible performance, beats all competitors easily. Amazing!",positive,5,Automotive
+1314,"Meets basic requirements, nothing more to say. It is alright.",neutral,3,Toys
+481,"Delighted with this purchase, thank you so much. 10/10!",positive,5,Electronics
+166,"Highly satisfied customer, great product overall. Amazing!",positive,5,Home & Kitchen
+249,Five stars! Will definitely buy again. Amazing!,positive,4,Automotive
+308,Great craftsmanship and very durable product. 10/10!,positive,5,Books
+447,"This product is absolutely amazing, I love it so much! Great!",positive,5,Electronics
+747,"Low quality materials, very bad build. Very bad.",negative,2,Sports
+335,Wonderful experience from start to finish. 10/10!,positive,5,Toys
+98,"Superb quality and fast delivery, very satisfied. 10/10!",positive,5,Beauty
+760,"Very poor quality, fell apart immediately. Awful.",negative,1,Toys
+738,"Absolute nightmare, returning this immediately. Very bad.",negative,2,Home & Kitchen
+837,The product is dangerous and poorly made. Never again.,negative,1,Books
+943,"Horrible experience, would never buy again. Garbage.",negative,1,Toys
+103,"Delighted with this purchase, thank you so much. Loved it.",positive,4,Sports
+435,"Simply outstanding, exceeded all my hopes. Amazing!",positive,4,Beauty
+75,"Incredible performance, beats all competitors easily. Great!",positive,5,Home & Kitchen
+1341,Acceptable for the price point given. Average.,neutral,3,Clothing
+1125,Stopped working within a week of purchase. Never again.,negative,1,Electronics
+1360,Acceptable for the price point given. Your call.,neutral,3,Automotive
+303,"Delighted with this purchase, thank you so much. Highly recommended!",positive,4,Toys
+1263,"Neither great nor terrible, just okay overall. Your call.",neutral,3,Sports
+1224,Works fine for occasional use I suppose. Average.,neutral,3,Toys
+734,Terrible smell and poor packaging overall. Never again.,negative,1,Clothing
+389,"Works like a charm, absolutely fantastic. Amazing!",positive,4,Books
+236,Great craftsmanship and very durable product. Great!,positive,5,Books
+1246,Mediocre quality but works for now. Fair enough.,neutral,3,Beauty
+268,"Best purchase I have ever made, works perfectly. Loved it.",positive,4,Electronics
+306,"Best purchase I have ever made, works perfectly. Highly recommended!",positive,5,Home & Kitchen
+118,The best thing I have bought this year. Amazing!,positive,5,Home & Kitchen
+1212,"Does what it says, no more no less. Maybe try it.",neutral,3,Electronics
+674,"Very poor quality, fell apart immediately. Never again.",negative,1,Toys
+250,"Excellent value for money, very happy with my purchase. Amazing!",positive,5,Toys
+1094,"Completely disappointed, total waste of money. Awful.",negative,2,Beauty
+1080,"Regret buying this, complete waste of money. Never again.",negative,1,Electronics
+72,"Perfect in every way, could not ask for more. 10/10!",positive,4,Books
+95,Five stars! Will definitely buy again. Amazing!,positive,5,Toys
+848,"Nothing like described, very disappointing. Never again.",negative,2,Clothing
+34,"Simply outstanding, exceeded all my hopes. Highly recommended!",positive,5,Home & Kitchen
+1101,"Worst purchase ever, totally useless product. Never again.",negative,1,Books
+449,The best thing I have bought this year. Highly recommended!,positive,5,Sports
+446,"Works like a charm, absolutely fantastic. Highly recommended!",positive,4,Toys
+772,The product is dangerous and poorly made. Awful.,negative,1,Clothing
+717,"Horrible experience, would never buy again. Zero stars.",negative,1,Sports
+887,"Worst purchase ever, totally useless product. Awful.",negative,2,Beauty
+1245,"Delivery was fine, product is functional enough. Fair enough.",neutral,3,Toys
+901,Stopped working within a week of purchase. Awful.,negative,1,Home & Kitchen
+1036,"Awful customer service, no help whatsoever. Zero stars.",negative,2,Beauty
+78,"Best purchase I have ever made, works perfectly. Loved it.",positive,4,Sports
+85,Great craftsmanship and very durable product. Great!,positive,4,Books
+835,"Does not work as advertised, very misleading. Never again.",negative,1,Electronics
+83,"Fantastic experience, highly recommend to everyone. Great!",positive,5,Toys
+458,"Fantastic experience, highly recommend to everyone. 10/10!",positive,5,Beauty
+919,"Complete garbage, avoid at all costs. Zero stars.",negative,2,Sports
+677,"Very poor quality, fell apart immediately. Zero stars.",negative,1,Sports
+985,"Worst purchase ever, totally useless product. Awful.",negative,2,Sports
+1240,"Neither great nor terrible, just okay overall. Fair enough.",neutral,3,Toys
+437,"Perfect in every way, could not ask for more. Highly recommended!",positive,5,Toys
+771,"Worst purchase ever, totally useless product. Very bad.",negative,1,Toys
+645,"Regret buying this, complete waste of money. Very bad.",negative,2,Automotive
+1120,"Regret buying this, complete waste of money. Very bad.",negative,1,Books
+906,The product is dangerous and poorly made. Zero stars.,negative,1,Books
+1194,"Low quality materials, very bad build. Very bad.",negative,1,Electronics
+405,"This changed my life, absolutely brilliant product. 10/10!",positive,5,Books
+1304,"Neither great nor terrible, just okay overall. Maybe try it.",neutral,3,Automotive
+934,Stopped working within a week of purchase. Never again.,negative,1,Sports
+1486,Works fine for occasional use I suppose. Maybe try it.,neutral,3,Books
+105,"Highly satisfied customer, great product overall. Great!",positive,5,Toys
+610,"Defective product, very frustrating experience. Very bad.",negative,1,Beauty
+1456,Works fine for occasional use I suppose. Your call.,neutral,3,Home & Kitchen
+689,Customer support is nonexistent and unhelpful. Never again.,negative,1,Clothing
+949,"Completely disappointed, total waste of money. Zero stars.",negative,1,Clothing
+932,"Complete garbage, avoid at all costs. Awful.",negative,2,Beauty
+63,Outstanding customer service and great product quality. Loved it.,positive,5,Sports
+282,Outstanding customer service and great product quality. Loved it.,positive,5,Sports
+779,Customer support is nonexistent and unhelpful. Zero stars.,negative,1,Clothing
+1394,"Neither great nor terrible, just okay overall. Average.",neutral,3,Toys
+239,"Love everything about this, truly wonderful. Great!",positive,5,Electronics
+224,"This product is absolutely amazing, I love it so much! 10/10!",positive,5,Sports
+146,"This product is absolutely amazing, I love it so much! Loved it.",positive,4,Home & Kitchen
+1399,"It works as described, nothing special about it. Average.",neutral,3,Books
+374,Really impressed with how well this works. Loved it.,positive,5,Clothing
+1229,"Delivery was fine, product is functional enough. Average.",neutral,3,Beauty
+119,"This product is absolutely amazing, I love it so much! Great!",positive,5,Beauty
+1167,"Very poor quality, fell apart immediately. Zero stars.",negative,2,Beauty
+251,"Love everything about this, truly wonderful. Great!",positive,5,Beauty
+1445,"Does what it says, no more no less. Average.",neutral,3,Clothing
+1023,"Awful customer service, no help whatsoever. Garbage.",negative,1,Books
+10,"Incredible performance, beats all competitors easily. Highly recommended!",positive,4,Sports
+450,The best thing I have bought this year. Loved it.,positive,5,Beauty
+883,"Regret buying this, complete waste of money. Zero stars.",negative,1,Clothing
+709,"Worst purchase ever, totally useless product. Garbage.",negative,1,Toys
+256,"Fantastic experience, highly recommend to everyone. Highly recommended!",positive,5,Toys
+594,Five stars! Will definitely buy again. Highly recommended!,positive,5,Sports
+390,The best thing I have bought this year. Highly recommended!,positive,5,Electronics
+1088,"Horrible experience, would never buy again. Very bad.",negative,1,Books
+1201,"It works as described, nothing special about it. Fair enough.",neutral,3,Books
+558,"Highly satisfied customer, great product overall. Highly recommended!",positive,4,Automotive
+1288,"Delivery was fine, product is functional enough. Maybe try it.",neutral,3,Home & Kitchen
+840,Terrible smell and poor packaging overall. Garbage.,negative,1,Toys
+461,The best thing I have bought this year. 10/10!,positive,4,Automotive
+724,"Terrible product, broke after just one day of use. Never again.",negative,1,Books
+1382,"Standard quality product, as expected for price. Average.",neutral,3,Books
+145,"Incredible performance, beats all competitors easily. Loved it.",positive,4,Books
+502,"Fantastic experience, highly recommend to everyone. Great!",positive,5,Beauty
+1099,"Very poor quality, fell apart immediately. Zero stars.",negative,2,Electronics
+740,Stopped working within a week of purchase. Garbage.,negative,1,Books
+1385,"Product arrived on time, seems okay so far. Your call.",neutral,3,Sports
+732,"Regret buying this, complete waste of money. Zero stars.",negative,1,Books
+540,The quality exceeded my expectations completely. Amazing!,positive,5,Electronics
+178,"Superb quality and fast delivery, very satisfied. Great!",positive,5,Electronics
+1447,"It works as described, nothing special about it. Fair enough.",neutral,3,Toys
+698,"Completely disappointed, total waste of money. Very bad.",negative,2,Toys
+941,Customer support is nonexistent and unhelpful. Zero stars.,negative,2,Toys
+1050,"Horrible experience, would never buy again. Awful.",negative,1,Beauty
+923,"Broke immediately, absolutely worthless. Very bad.",negative,2,Sports
+899,Stopped working within a week of purchase. Never again.,negative,1,Toys
+1493,Acceptable for the price point given. Fair enough.,neutral,3,Toys
+8,Outstanding customer service and great product quality. Loved it.,positive,4,Toys
+863,"Defective product, very frustrating experience. Zero stars.",negative,1,Home & Kitchen
+668,Extremely unhappy with this purchase. Zero stars.,negative,2,Sports
+1161,Overpriced junk that does not function at all. Awful.,negative,1,Beauty
+358,The quality exceeded my expectations completely. Highly recommended!,positive,5,Clothing
+784,"Completely disappointed, total waste of money. Zero stars.",negative,1,Sports
+736,"Absolute nightmare, returning this immediately. Very bad.",negative,2,Sports
+330,"Delighted with this purchase, thank you so much. Amazing!",positive,5,Beauty
+1056,The product is dangerous and poorly made. Awful.,negative,1,Beauty
+1149,"Complete garbage, avoid at all costs. Garbage.",negative,2,Clothing
+1118,Customer support is nonexistent and unhelpful. Garbage.,negative,1,Clothing
+259,"Simply outstanding, exceeded all my hopes. Highly recommended!",positive,5,Sports
+1176,Extremely unhappy with this purchase. Very bad.,negative,1,Beauty
+373,"Perfect in every way, could not ask for more. 10/10!",positive,5,Beauty
+1104,"Absolute nightmare, returning this immediately. Awful.",negative,1,Home & Kitchen
+926,"Horrible experience, would never buy again. Very bad.",negative,2,Beauty
+143,Wonderful experience from start to finish. 10/10!,positive,5,Beauty
+526,Outstanding customer service and great product quality. Amazing!,positive,5,Clothing
+1139,"Absolute nightmare, returning this immediately. Awful.",negative,1,Home & Kitchen
+1008,"Complete garbage, avoid at all costs. Never again.",negative,1,Sports
+1122,"Complete garbage, avoid at all costs. Very bad.",negative,2,Clothing
+1424,"Standard quality product, as expected for price. Fair enough.",neutral,3,Automotive
+441,Really impressed with how well this works. 10/10!,positive,5,Home & Kitchen
+532,"This changed my life, absolutely brilliant product. Highly recommended!",positive,4,Automotive
+1202,"It is alright, not what I expected though. Your call.",neutral,3,Home & Kitchen
+227,"This changed my life, absolutely brilliant product. Loved it.",positive,5,Home & Kitchen
+1037,The product is dangerous and poorly made. Never again.,negative,2,Toys
+229,The best thing I have bought this year. Amazing!,positive,5,Beauty
+1280,Mediocre quality but works for now. Maybe try it.,neutral,3,Home & Kitchen
+1450,Mediocre quality but works for now. Fair enough.,neutral,3,Toys
+213,"Works like a charm, absolutely fantastic. Amazing!",positive,4,Automotive
+80,"Love everything about this, truly wonderful. Highly recommended!",positive,5,Home & Kitchen
+149,"Superb quality and fast delivery, very satisfied. 10/10!",positive,4,Clothing
+815,"Horrible experience, would never buy again. Garbage.",negative,2,Beauty
+904,"Regret buying this, complete waste of money. Zero stars.",negative,2,Beauty
+959,The product is dangerous and poorly made. Zero stars.,negative,2,Electronics
+672,Stopped working within a week of purchase. Very bad.,negative,2,Toys
+1156,The product is dangerous and poorly made. Awful.,negative,1,Books
+556,"Love everything about this, truly wonderful. Loved it.",positive,5,Home & Kitchen
+908,Overpriced junk that does not function at all. Awful.,negative,1,Clothing
+134,"Incredible performance, beats all competitors easily. 10/10!",positive,5,Beauty
+1109,"Complete garbage, avoid at all costs. Garbage.",negative,1,Sports
+824,"Complete garbage, avoid at all costs. Zero stars.",negative,1,Books
+409,"Highly satisfied customer, great product overall. Great!",positive,5,Beauty
+369,"Fantastic experience, highly recommend to everyone. Amazing!",positive,5,Toys
+508,Really impressed with how well this works. Great!,positive,5,Beauty
+1182,"Low quality materials, very bad build. Garbage.",negative,2,Sports
+505,The best thing I have bought this year. Loved it.,positive,5,Sports
+1489,"Neither great nor terrible, just okay overall. Average.",neutral,3,Toys
+348,"Delighted with this purchase, thank you so much. Highly recommended!",positive,5,Electronics
+387,"Best purchase I have ever made, works perfectly. 10/10!",positive,5,Home & Kitchen
+1,"Best purchase I have ever made, works perfectly. Great!",positive,5,Sports
+361,Outstanding customer service and great product quality. Highly recommended!,positive,5,Books
+895,Stopped working within a week of purchase. Very bad.,negative,1,Automotive
+829,"Nothing like described, very disappointing. Very bad.",negative,2,Clothing
+1416,Acceptable for the price point given. Maybe try it.,neutral,3,Automotive
+476,"Works like a charm, absolutely fantastic. Highly recommended!",positive,5,Clothing
+1281,"Average product, does the job I suppose. Maybe try it.",neutral,3,Automotive
+58,Great craftsmanship and very durable product. Great!,positive,5,Books
+638,"Low quality materials, very bad build. Never again.",negative,1,Beauty
+1331,"Average product, does the job I suppose. Average.",neutral,3,Beauty
+1054,Extremely unhappy with this purchase. Never again.,negative,1,Automotive
+1371,"Neither great nor terrible, just okay overall. Maybe try it.",neutral,3,Toys
+173,"Best purchase I have ever made, works perfectly. Loved it.",positive,4,Toys
+451,"Perfect in every way, could not ask for more. Great!",positive,5,Electronics
+126,"Superb quality and fast delivery, very satisfied. Amazing!",positive,5,Books
+1180,"Worst purchase ever, totally useless product. Never again.",negative,1,Home & Kitchen
+531,"Delighted with this purchase, thank you so much. Highly recommended!",positive,5,Clothing
+858,"Worst purchase ever, totally useless product. Never again.",negative,1,Clothing
+714,"Very poor quality, fell apart immediately. Garbage.",negative,1,Electronics
+91,"Excellent value for money, very happy with my purchase. Loved it.",positive,5,Clothing
+1451,Acceptable for the price point given. Your call.,neutral,3,Home & Kitchen
+182,"Superb quality and fast delivery, very satisfied. Amazing!",positive,4,Books
+876,Overpriced junk that does not function at all. Awful.,negative,2,Clothing
+1031,"Does not work as advertised, very misleading. Very bad.",negative,2,Clothing
+787,"Very poor quality, fell apart immediately. Very bad.",negative,2,Clothing
+415,"Fantastic experience, highly recommend to everyone. Great!",positive,5,Beauty
+252,"This product is absolutely amazing, I love it so much! Highly recommended!",positive,5,Electronics
+70,"Superb quality and fast delivery, very satisfied. Loved it.",positive,5,Toys
+804,"Completely disappointed, total waste of money. Zero stars.",negative,1,Clothing
+132,Five stars! Will definitely buy again. Amazing!,positive,4,Beauty
+301,The quality exceeded my expectations completely. Great!,positive,5,Books
+1430,Acceptable for the price point given. It is alright.,neutral,3,Electronics
+327,Outstanding customer service and great product quality. Amazing!,positive,5,Home & Kitchen
+1465,"Delivery was fine, product is functional enough. Fair enough.",neutral,3,Toys
+1114,Customer support is nonexistent and unhelpful. Zero stars.,negative,2,Sports
+500,"Best purchase I have ever made, works perfectly. Highly recommended!",positive,5,Home & Kitchen
+1378,Mediocre quality but works for now. Average.,neutral,3,Sports
+833,The product is dangerous and poorly made. Garbage.,negative,1,Electronics
+365,Outstanding customer service and great product quality. Great!,positive,4,Sports
+496,"Incredible performance, beats all competitors easily. Loved it.",positive,4,Sports
+1395,Acceptable for the price point given. Your call.,neutral,3,Home & Kitchen
+339,Outstanding customer service and great product quality. 10/10!,positive,5,Home & Kitchen
+422,Wonderful experience from start to finish. 10/10!,positive,5,Sports
+165,"Simply outstanding, exceeded all my hopes. Loved it.",positive,5,Books
+29,Wonderful experience from start to finish. Highly recommended!,positive,5,Automotive
+517,The quality exceeded my expectations completely. Amazing!,positive,5,Books
+194,The quality exceeded my expectations completely. Loved it.,positive,5,Sports
+1328,Acceptable for the price point given. Average.,neutral,3,Beauty
+1362,"Delivery was fine, product is functional enough. Maybe try it.",neutral,3,Sports
+946,Overpriced junk that does not function at all. Very bad.,negative,1,Books
+1361,"It is alright, not what I expected though. Average.",neutral,3,Home & Kitchen
+170,Great craftsmanship and very durable product. Highly recommended!,positive,5,Toys
+168,"Love everything about this, truly wonderful. Loved it.",positive,5,Beauty
+653,Overpriced junk that does not function at all. Very bad.,negative,1,Clothing
+174,Great craftsmanship and very durable product. Loved it.,positive,5,Home & Kitchen
+519,"This product is absolutely amazing, I love it so much! 10/10!",positive,5,Beauty
+1214,"Does what it says, no more no less. Fair enough.",neutral,3,Automotive
+1401,"Standard quality product, as expected for price. It is alright.",neutral,3,Sports
+913,"Terrible product, broke after just one day of use. Zero stars.",negative,1,Toys
+492,"Excellent value for money, very happy with my purchase. 10/10!",positive,5,Sports
+954,Extremely unhappy with this purchase. Zero stars.,negative,1,Clothing
+74,Great craftsmanship and very durable product. Loved it.,positive,5,Sports
+1253,"Neither great nor terrible, just okay overall. Average.",neutral,3,Clothing
+588,Five stars! Will definitely buy again. Highly recommended!,positive,5,Automotive
+751,Extremely unhappy with this purchase. Zero stars.,negative,1,Toys
+658,Stopped working within a week of purchase. Awful.,negative,2,Automotive
+843,"Horrible experience, would never buy again. Zero stars.",negative,2,Clothing
+235,Great craftsmanship and very durable product. Amazing!,positive,5,Toys
+733,"Awful customer service, no help whatsoever. Awful.",negative,1,Beauty
+215,"Perfect in every way, could not ask for more. Amazing!",positive,4,Books
+163,The best thing I have bought this year. Loved it.,positive,5,Toys
+133,"Delighted with this purchase, thank you so much. Amazing!",positive,4,Automotive
+1312,"Meets basic requirements, nothing more to say. Maybe try it.",neutral,3,Beauty
+223,"Superb quality and fast delivery, very satisfied. Amazing!",positive,5,Toys
+1228,"Does what it says, no more no less. Your call.",neutral,3,Books
+935,"Low quality materials, very bad build. Garbage.",negative,2,Electronics
+186,"Simply outstanding, exceeded all my hopes. Amazing!",positive,5,Automotive
+42,Great craftsmanship and very durable product. Loved it.,positive,5,Sports
+693,"Very poor quality, fell apart immediately. Zero stars.",negative,1,Sports
+109,"Works like a charm, absolutely fantastic. Highly recommended!",positive,5,Sports
+39,The quality exceeded my expectations completely. Highly recommended!,positive,5,Clothing
+569,Five stars! Will definitely buy again. Highly recommended!,positive,5,Home & Kitchen
+995,Stopped working within a week of purchase. Garbage.,negative,1,Clothing
+1343,"Average product, does the job I suppose. Fair enough.",neutral,3,Toys
+1442,"Product arrived on time, seems okay so far. Your call.",neutral,3,Electronics
+484,Outstanding customer service and great product quality. Loved it.,positive,4,Electronics
+469,Great craftsmanship and very durable product. 10/10!,positive,5,Books
+891,Terrible smell and poor packaging overall. Zero stars.,negative,2,Clothing
+948,"Low quality materials, very bad build. Very bad.",negative,1,Sports
+25,"Delighted with this purchase, thank you so much. Amazing!",positive,5,Toys
+1010,"Complete garbage, avoid at all costs. Awful.",negative,1,Automotive
+1193,"Broke immediately, absolutely worthless. Zero stars.",negative,1,Home & Kitchen
+69,"Works like a charm, absolutely fantastic. Great!",positive,5,Beauty
+885,"Worst purchase ever, totally useless product. Garbage.",negative,2,Home & Kitchen
+1355,"Delivery was fine, product is functional enough. It is alright.",neutral,3,Sports
+367,"Works like a charm, absolutely fantastic. Loved it.",positive,5,Beauty
+506,"Love everything about this, truly wonderful. Great!",positive,5,Books
+851,"Worst purchase ever, totally useless product. Never again.",negative,1,Sports
+1316,"Average product, does the job I suppose. Your call.",neutral,3,Electronics
+384,The best thing I have bought this year. Loved it.,positive,5,Automotive
+735,"Broke immediately, absolutely worthless. Awful.",negative,2,Home & Kitchen
+718,"Nothing like described, very disappointing. Never again.",negative,1,Books
+1336,Acceptable for the price point given. Fair enough.,neutral,3,Toys
+455,"Incredible performance, beats all competitors easily. Highly recommended!",positive,5,Books
+265,"Incredible performance, beats all competitors easily. Great!",positive,5,Home & Kitchen
+76,"Love everything about this, truly wonderful. Loved it.",positive,5,Automotive
+915,Overpriced junk that does not function at all. Very bad.,negative,1,Toys
+233,The quality exceeded my expectations completely. Amazing!,positive,5,Sports
+445,"Delighted with this purchase, thank you so much. Highly recommended!",positive,5,Clothing
+396,"Superb quality and fast delivery, very satisfied. Great!",positive,4,Toys
+612,"Complete garbage, avoid at all costs. Never again.",negative,1,Beauty
+177,Really impressed with how well this works. 10/10!,positive,5,Electronics
+19,Wonderful experience from start to finish. 10/10!,positive,5,Home & Kitchen
+1311,"Product arrived on time, seems okay so far. Average.",neutral,3,Toys
+1222,"Meets basic requirements, nothing more to say. Average.",neutral,3,Sports
+342,"This changed my life, absolutely brilliant product. Loved it.",positive,4,Automotive
+1348,"Product arrived on time, seems okay so far. Average.",neutral,3,Beauty
+880,Stopped working within a week of purchase. Very bad.,negative,1,Home & Kitchen
+596,Wonderful experience from start to finish. Amazing!,positive,5,Home & Kitchen
+62,"Perfect in every way, could not ask for more. 10/10!",positive,5,Beauty
+1261,"Meets basic requirements, nothing more to say. It is alright.",neutral,3,Home & Kitchen
+273,"Superb quality and fast delivery, very satisfied. Great!",positive,5,Toys
+1209,"Neither great nor terrible, just okay overall. Your call.",neutral,3,Home & Kitchen
+873,"Nothing like described, very disappointing. Garbage.",negative,1,Toys
+1121,"Nothing like described, very disappointing. Very bad.",negative,2,Electronics
+1407,Acceptable for the price point given. Average.,neutral,3,Automotive
+279,"Delighted with this purchase, thank you so much. Loved it.",positive,5,Books
+37,"Love everything about this, truly wonderful. Loved it.",positive,5,Electronics
+663,Customer support is nonexistent and unhelpful. Garbage.,negative,1,Automotive
+1352,Acceptable for the price point given. Maybe try it.,neutral,3,Toys
+1090,"Terrible product, broke after just one day of use. Garbage.",negative,2,Clothing
+978,"Very poor quality, fell apart immediately. Awful.",negative,1,Automotive
+739,"Low quality materials, very bad build. Never again.",negative,1,Electronics
+192,"Works like a charm, absolutely fantastic. Amazing!",positive,4,Sports
+920,Terrible smell and poor packaging overall. Very bad.,negative,2,Electronics
+457,"Perfect in every way, could not ask for more. Loved it.",positive,4,Clothing
+676,Overpriced junk that does not function at all. Awful.,negative,1,Clothing
+761,"Broke immediately, absolutely worthless. Very bad.",negative,1,Books
+1353,"Meets basic requirements, nothing more to say. Average.",neutral,3,Home & Kitchen
+729,The product is dangerous and poorly made. Very bad.,negative,2,Electronics
+413,"Perfect in every way, could not ask for more. 10/10!",positive,4,Automotive
+826,Overpriced junk that does not function at all. Garbage.,negative,1,Toys
+617,"Nothing like described, very disappointing. Awful.",negative,1,Books
+115,Five stars! Will definitely buy again. Loved it.,positive,4,Electronics
+418,The quality exceeded my expectations completely. Loved it.,positive,5,Toys
+1429,Acceptable for the price point given. It is alright.,neutral,3,Clothing
+970,"Broke immediately, absolutely worthless. Very bad.",negative,2,Electronics
+605,"Awful customer service, no help whatsoever. Garbage.",negative,1,Books
+1435,"Delivery was fine, product is functional enough. Maybe try it.",neutral,3,Sports
+90,"Best purchase I have ever made, works perfectly. 10/10!",positive,5,Beauty
+849,"Worst purchase ever, totally useless product. Never again.",negative,1,Automotive
+1146,"Low quality materials, very bad build. Very bad.",negative,2,Electronics
+1434,"It is alright, not what I expected though. Your call.",neutral,3,Books
+754,"Worst purchase ever, totally useless product. Garbage.",negative,1,Books
+499,Great craftsmanship and very durable product. 10/10!,positive,5,Sports
+12,The quality exceeded my expectations completely. Highly recommended!,positive,5,Sports
+397,"Incredible performance, beats all competitors easily. Loved it.",positive,5,Books
+285,Really impressed with how well this works. 10/10!,positive,5,Electronics
+691,"Very poor quality, fell apart immediately. Never again.",negative,2,Toys
+1231,"Product arrived on time, seems okay so far. Your call.",neutral,3,Beauty
+1404,"Does what it says, no more no less. Average.",neutral,3,Sports
+690,Overpriced junk that does not function at all. Garbage.,negative,2,Books
+852,"Terrible product, broke after just one day of use. Awful.",negative,1,Beauty
+160,"Excellent value for money, very happy with my purchase. Great!",positive,5,Sports
+896,"Does not work as advertised, very misleading. Never again.",negative,1,Beauty
+1190,Overpriced junk that does not function at all. Zero stars.,negative,2,Electronics
+258,Really impressed with how well this works. Loved it.,positive,5,Clothing
+336,"This changed my life, absolutely brilliant product. Loved it.",positive,4,Books
+1408,"Average product, does the job I suppose. It is alright.",neutral,3,Automotive
+1040,"Awful customer service, no help whatsoever. Zero stars.",negative,2,Toys
+516,"Works like a charm, absolutely fantastic. Amazing!",positive,5,Beauty
+1016,Customer support is nonexistent and unhelpful. Zero stars.,negative,1,Automotive
+769,Customer support is nonexistent and unhelpful. Garbage.,negative,1,Home & Kitchen
+1317,"It works as described, nothing special about it. It is alright.",neutral,3,Home & Kitchen
+762,Overpriced junk that does not function at all. Awful.,negative,1,Automotive
+1103,"Awful customer service, no help whatsoever. Zero stars.",negative,1,Books
+522,"Incredible performance, beats all competitors easily. Loved it.",positive,4,Electronics
+23,Wonderful experience from start to finish. Amazing!,positive,5,Clothing
+357,"Love everything about this, truly wonderful. 10/10!",positive,5,Clothing
+1272,Acceptable for the price point given. Average.,neutral,3,Sports
+341,The best thing I have bought this year. Amazing!,positive,5,Automotive
+432,The best thing I have bought this year. Great!,positive,5,Toys
+474,"Fantastic experience, highly recommend to everyone. Great!",positive,5,Clothing
+218,"Excellent value for money, very happy with my purchase. Great!",positive,4,Automotive
+912,The product is dangerous and poorly made. Garbage.,negative,2,Books
+1205,"It is alright, not what I expected though. Fair enough.",neutral,3,Books
+1012,"Regret buying this, complete waste of money. Never again.",negative,1,Books
+1459,"Standard quality product, as expected for price. Maybe try it.",neutral,3,Toys
+94,Wonderful experience from start to finish. Great!,positive,5,Automotive
+1009,The product is dangerous and poorly made. Zero stars.,negative,1,Beauty
+1071,"Defective product, very frustrating experience. Garbage.",negative,1,Books
+697,"Absolute nightmare, returning this immediately. Zero stars.",negative,1,Home & Kitchen
+997,Terrible smell and poor packaging overall. Very bad.,negative,2,Automotive
+154,"Incredible performance, beats all competitors easily. Highly recommended!",positive,5,Beauty
+1300,"Product arrived on time, seems okay so far. Fair enough.",neutral,3,Clothing
+1498,"Product arrived on time, seems okay so far. Maybe try it.",neutral,3,Beauty
+790,"Defective product, very frustrating experience. Garbage.",negative,1,Toys
+581,Wonderful experience from start to finish. Highly recommended!,positive,5,Home & Kitchen
+704,"Low quality materials, very bad build. Garbage.",negative,2,Clothing
+1259,"Average product, does the job I suppose. Average.",neutral,3,Clothing
+488,Outstanding customer service and great product quality. Highly recommended!,positive,5,Home & Kitchen
+560,"Highly satisfied customer, great product overall. Loved it.",positive,5,Sports
+802,Customer support is nonexistent and unhelpful. Zero stars.,negative,1,Books
+513,"Best purchase I have ever made, works perfectly. 10/10!",positive,5,Clothing
+634,"Absolute nightmare, returning this immediately. Zero stars.",negative,1,Sports
+1111,"Regret buying this, complete waste of money. Never again.",negative,1,Sports
+1472,"Standard quality product, as expected for price. Average.",neutral,3,Clothing
+791,"Regret buying this, complete waste of money. Never again.",negative,1,Home & Kitchen
+117,"Highly satisfied customer, great product overall. Highly recommended!",positive,5,Home & Kitchen
+741,Stopped working within a week of purchase. Very bad.,negative,2,Books
+1082,Customer support is nonexistent and unhelpful. Awful.,negative,1,Home & Kitchen
+831,Stopped working within a week of purchase. Awful.,negative,1,Books
+120,Really impressed with how well this works. Highly recommended!,positive,4,Automotive
+657,"Regret buying this, complete waste of money. Zero stars.",negative,1,Automotive
+636,"Does not work as advertised, very misleading. Garbage.",negative,1,Toys
+370,"Perfect in every way, could not ask for more. Highly recommended!",positive,5,Sports
+269,"Love everything about this, truly wonderful. Amazing!",positive,4,Books
+656,"Awful customer service, no help whatsoever. Never again.",negative,1,Sports
+936,Overpriced junk that does not function at all. Zero stars.,negative,2,Toys
+823,"Completely disappointed, total waste of money. Garbage.",negative,2,Toys
+867,"Completely disappointed, total waste of money. Never again.",negative,1,Electronics
+47,The quality exceeded my expectations completely. Great!,positive,4,Toys
+1291,"It is alright, not what I expected though. Maybe try it.",neutral,3,Books
+992,"Absolute nightmare, returning this immediately. Never again.",negative,1,Books
+877,"Very poor quality, fell apart immediately. Awful.",negative,2,Toys
+774,"Regret buying this, complete waste of money. Never again.",negative,1,Sports
+1500,"Neither great nor terrible, just okay overall. Fair enough.",neutral,3,Home & Kitchen
+5,Great craftsmanship and very durable product. Loved it.,positive,5,Beauty
+1004,"Complete garbage, avoid at all costs. Garbage.",negative,2,Toys
+1302,Acceptable for the price point given. Fair enough.,neutral,3,Automotive
+264,"Perfect in every way, could not ask for more. 10/10!",positive,5,Sports
+1334,"Standard quality product, as expected for price. It is alright.",neutral,3,Toys
+1443,"Meets basic requirements, nothing more to say. Maybe try it.",neutral,3,Electronics
+444,"Love everything about this, truly wonderful. Highly recommended!",positive,5,Books
+1003,"Defective product, very frustrating experience. Very bad.",negative,1,Books
+1078,Terrible smell and poor packaging overall. Awful.,negative,2,Home & Kitchen
+838,"Low quality materials, very bad build. Very bad.",negative,1,Books
+1340,"Delivery was fine, product is functional enough. Fair enough.",neutral,3,Electronics
+305,"Love everything about this, truly wonderful. Highly recommended!",positive,5,Sports
+1175,"Complete garbage, avoid at all costs. Garbage.",negative,1,Clothing
+314,"Simply outstanding, exceeded all my hopes. Loved it.",positive,5,Beauty
+150,Really impressed with how well this works. 10/10!,positive,4,Books
+575,"Superb quality and fast delivery, very satisfied. 10/10!",positive,5,Automotive
+51,"Best purchase I have ever made, works perfectly. Great!",positive,5,Beauty
+1415,Mediocre quality but works for now. Fair enough.,neutral,3,Beauty
+727,"Defective product, very frustrating experience. Never again.",negative,1,Sports
+834,"Absolute nightmare, returning this immediately. Zero stars.",negative,1,Clothing
+1116,"Terrible product, broke after just one day of use. Very bad.",negative,2,Beauty
+471,Outstanding customer service and great product quality. Great!,positive,5,Beauty
+972,"Very poor quality, fell apart immediately. Garbage.",negative,1,Automotive
+654,"Terrible product, broke after just one day of use. Garbage.",negative,1,Books
+400,Outstanding customer service and great product quality. Great!,positive,4,Automotive
+512,"Simply outstanding, exceeded all my hopes. Amazing!",positive,5,Sports
+321,"Highly satisfied customer, great product overall. Great!",positive,5,Sports
+20,"Fantastic experience, highly recommend to everyone. Loved it.",positive,5,Electronics
+685,"Low quality materials, very bad build. Very bad.",negative,1,Automotive
+36,The best thing I have bought this year. Great!,positive,5,Books
+903,Terrible smell and poor packaging overall. Very bad.,negative,1,Books
+828,"Nothing like described, very disappointing. Very bad.",negative,2,Electronics
+1345,"Does what it says, no more no less. It is alright.",neutral,3,Home & Kitchen
+408,"Incredible performance, beats all competitors easily. Highly recommended!",positive,4,Sports
+921,"Terrible product, broke after just one day of use. Garbage.",negative,2,Clothing
+538,Five stars! Will definitely buy again. Highly recommended!,positive,4,Books
+759,"Nothing like described, very disappointing. Zero stars.",negative,2,Sports
+1063,"Defective product, very frustrating experience. Very bad.",negative,1,Home & Kitchen
+246,"This product is absolutely amazing, I love it so much! Amazing!",positive,5,Sports
+1128,Extremely unhappy with this purchase. Very bad.,negative,1,Toys
+785,"Completely disappointed, total waste of money. Zero stars.",negative,2,Beauty
+490,Really impressed with how well this works. Amazing!,positive,5,Toys
+155,The quality exceeded my expectations completely. Highly recommended!,positive,4,Toys
+962,"Low quality materials, very bad build. Very bad.",negative,1,Sports
+854,"Low quality materials, very bad build. Never again.",negative,1,Beauty
+626,"Awful customer service, no help whatsoever. Never again.",negative,1,Sports
+686,Stopped working within a week of purchase. Garbage.,negative,1,Automotive
+570,Five stars! Will definitely buy again. 10/10!,positive,4,Sports
+1427,Mediocre quality but works for now. Maybe try it.,neutral,3,Books
+18,Great craftsmanship and very durable product. Loved it.,positive,5,Clothing
+128,Great craftsmanship and very durable product. Great!,positive,5,Clothing
+928,"Absolute nightmare, returning this immediately. Very bad.",negative,1,Sports
+981,"Does not work as advertised, very misleading. Awful.",negative,1,Automotive
+1470,"Does what it says, no more no less. Fair enough.",neutral,3,Toys
+191,Really impressed with how well this works. Great!,positive,5,Beauty
+1140,"Defective product, very frustrating experience. Awful.",negative,2,Automotive
+993,"Defective product, very frustrating experience. Zero stars.",negative,1,Books
+1464,Mediocre quality but works for now. Average.,neutral,3,Electronics
+1252,"Product arrived on time, seems okay so far. It is alright.",neutral,3,Books
+607,"Low quality materials, very bad build. Very bad.",negative,1,Toys
+181,"Perfect in every way, could not ask for more. 10/10!",positive,4,Clothing
+302,"Best purchase I have ever made, works perfectly. 10/10!",positive,4,Clothing
+497,"Love everything about this, truly wonderful. Great!",positive,5,Toys
+1315,"It works as described, nothing special about it. Average.",neutral,3,Books
+1256,"Average product, does the job I suppose. Average.",neutral,3,Clothing
+1238,"Product arrived on time, seems okay so far. It is alright.",neutral,3,Books
+518,Outstanding customer service and great product quality. Amazing!,positive,5,Toys
+1070,"Complete garbage, avoid at all costs. Very bad.",negative,1,Home & Kitchen
+477,"Works like a charm, absolutely fantastic. 10/10!",positive,5,Clothing
+158,Really impressed with how well this works. Highly recommended!,positive,5,Sports
+1196,"Worst purchase ever, totally useless product. Very bad.",negative,1,Sports
+17,Five stars! Will definitely buy again. 10/10!,positive,5,Books
+1073,The product is dangerous and poorly made. Never again.,negative,1,Automotive
+547,"Excellent value for money, very happy with my purchase. Loved it.",positive,5,Automotive
+659,"Regret buying this, complete waste of money. Never again.",negative,1,Books
+1227,"Neither great nor terrible, just okay overall. It is alright.",neutral,3,Clothing
+1020,"Complete garbage, avoid at all costs. Awful.",negative,1,Toys
+1319,Acceptable for the price point given. Average.,neutral,3,Sports
+960,"Terrible product, broke after just one day of use. Zero stars.",negative,2,Home & Kitchen
+1410,"Product arrived on time, seems okay so far. It is alright.",neutral,3,Electronics
+284,"Incredible performance, beats all competitors easily. Loved it.",positive,4,Toys
+798,"Defective product, very frustrating experience. Zero stars.",negative,2,Books
+226,"This changed my life, absolutely brilliant product. Highly recommended!",positive,5,Beauty
+27,"Fantastic experience, highly recommend to everyone. Great!",positive,5,Clothing
+438,Great craftsmanship and very durable product. Highly recommended!,positive,5,Clothing
+1458,Works fine for occasional use I suppose. Maybe try it.,neutral,3,Home & Kitchen
+230,The best thing I have bought this year. Great!,positive,5,Clothing
+38,"Delighted with this purchase, thank you so much. Great!",positive,5,Books
+750,"Worst purchase ever, totally useless product. Never again.",negative,2,Books
+1046,"Horrible experience, would never buy again. Never again.",negative,1,Clothing
+470,"Simply outstanding, exceeded all my hopes. Amazing!",positive,4,Sports
+1279,"Neither great nor terrible, just okay overall. Fair enough.",neutral,3,Clothing
+1473,"Average product, does the job I suppose. Average.",neutral,3,Books
+688,"Horrible experience, would never buy again. Awful.",negative,1,Sports
+1379,Works fine for occasional use I suppose. Maybe try it.,neutral,3,Books
+640,Customer support is nonexistent and unhelpful. Zero stars.,negative,2,Electronics
+1417,"Product arrived on time, seems okay so far. Your call.",neutral,3,Beauty
+1219,Mediocre quality but works for now. Average.,neutral,3,Automotive
+1159,"Completely disappointed, total waste of money. Very bad.",negative,1,Beauty
+1251,"It works as described, nothing special about it. Maybe try it.",neutral,3,Automotive
+1440,Acceptable for the price point given. Fair enough.,neutral,3,Home & Kitchen
+801,"Terrible product, broke after just one day of use. Garbage.",negative,2,Automotive
+161,"Excellent value for money, very happy with my purchase. Amazing!",positive,5,Beauty
+957,"Low quality materials, very bad build. Awful.",negative,2,Electronics
+1187,"Does not work as advertised, very misleading. Awful.",negative,1,Toys
+822,"Absolute nightmare, returning this immediately. Zero stars.",negative,1,Electronics
+1271,"Neither great nor terrible, just okay overall. Maybe try it.",neutral,3,Beauty
+878,Terrible smell and poor packaging overall. Very bad.,negative,2,Home & Kitchen
+914,"Absolute nightmare, returning this immediately. Garbage.",negative,1,Clothing
+153,"Love everything about this, truly wonderful. Highly recommended!",positive,4,Books
+1374,Acceptable for the price point given. Average.,neutral,3,Sports
+510,"Love everything about this, truly wonderful. Highly recommended!",positive,5,Books
+1136,"Awful customer service, no help whatsoever. Garbage.",negative,1,Clothing
+1322,"It is alright, not what I expected though. Maybe try it.",neutral,3,Toys
+104,"Highly satisfied customer, great product overall. Great!",positive,5,Home & Kitchen
+587,"Excellent value for money, very happy with my purchase. Great!",positive,4,Clothing
+1329,"It is alright, not what I expected though. Average.",neutral,3,Toys
+1144,The product is dangerous and poorly made. Awful.,negative,1,Clothing
+54,"Best purchase I have ever made, works perfectly. Loved it.",positive,5,Home & Kitchen
+152,Five stars! Will definitely buy again. Great!,positive,4,Home & Kitchen
+404,Five stars! Will definitely buy again. 10/10!,positive,4,Toys
+1455,"Average product, does the job I suppose. Average.",neutral,3,Automotive
+208,"Highly satisfied customer, great product overall. Amazing!",positive,5,Sports
+1418,Acceptable for the price point given. It is alright.,neutral,3,Electronics
+1123,"Awful customer service, no help whatsoever. Garbage.",negative,1,Clothing
+9,The quality exceeded my expectations completely. Amazing!,positive,5,Books
+1015,"Absolute nightmare, returning this immediately. Very bad.",negative,2,Sports
+1344,"Delivery was fine, product is functional enough. Fair enough.",neutral,3,Sports
+1061,"Absolute nightmare, returning this immediately. Never again.",negative,2,Automotive
+453,Five stars! Will definitely buy again. 10/10!,positive,5,Clothing
+254,Five stars! Will definitely buy again. Highly recommended!,positive,5,Sports
+897,"Absolute nightmare, returning this immediately. Very bad.",negative,1,Beauty
+1309,"Neither great nor terrible, just okay overall. Fair enough.",neutral,3,Toys
+881,"Horrible experience, would never buy again. Awful.",negative,2,Beauty
+1428,Mediocre quality but works for now. It is alright.,neutral,3,Toys
+624,"Worst purchase ever, totally useless product. Very bad.",negative,2,Home & Kitchen
+346,"Fantastic experience, highly recommend to everyone. 10/10!",positive,4,Sports
+1287,"It works as described, nothing special about it. Your call.",neutral,3,Beauty
+263,Wonderful experience from start to finish. Great!,positive,4,Sports
+151,"Love everything about this, truly wonderful. Highly recommended!",positive,5,Beauty
+473,Five stars! Will definitely buy again. Highly recommended!,positive,4,Beauty
+641,"Regret buying this, complete waste of money. Zero stars.",negative,1,Automotive
+1485,"Neither great nor terrible, just okay overall. Maybe try it.",neutral,3,Books
+1411,"Standard quality product, as expected for price. Your call.",neutral,3,Home & Kitchen
+551,"Perfect in every way, could not ask for more. Highly recommended!",positive,5,Electronics
+929,"Very poor quality, fell apart immediately. Garbage.",negative,1,Books
+489,The best thing I have bought this year. Highly recommended!,positive,5,Beauty
+1357,Works fine for occasional use I suppose. Average.,neutral,3,Electronics
+1172,"Nothing like described, very disappointing. Very bad.",negative,1,Automotive
+147,"Works like a charm, absolutely fantastic. Loved it.",positive,5,Home & Kitchen
+403,Great craftsmanship and very durable product. Amazing!,positive,4,Sports
+955,"Worst purchase ever, totally useless product. Zero stars.",negative,2,Beauty
+1406,"Meets basic requirements, nothing more to say. Maybe try it.",neutral,3,Automotive
+660,"Completely disappointed, total waste of money. Awful.",negative,1,Electronics
+464,"Fantastic experience, highly recommend to everyone. 10/10!",positive,5,Automotive
+187,"Love everything about this, truly wonderful. Highly recommended!",positive,5,Beauty
+1148,"Absolute nightmare, returning this immediately. Garbage.",negative,1,Automotive
+1225,"Average product, does the job I suppose. It is alright.",neutral,3,Beauty
+609,"Very poor quality, fell apart immediately. Garbage.",negative,1,Home & Kitchen
+144,The quality exceeded my expectations completely. Amazing!,positive,4,Electronics
+752,Overpriced junk that does not function at all. Awful.,negative,2,Sports
+982,Stopped working within a week of purchase. Never again.,negative,1,Home & Kitchen
+198,"Best purchase I have ever made, works perfectly. Amazing!",positive,5,Sports
+884,Extremely unhappy with this purchase. Zero stars.,negative,1,Electronics
+280,"Delighted with this purchase, thank you so much. Loved it.",positive,5,Home & Kitchen
+294,"Works like a charm, absolutely fantastic. Highly recommended!",positive,5,Sports
+1365,"Meets basic requirements, nothing more to say. Your call.",neutral,3,Toys
+401,"Love everything about this, truly wonderful. Loved it.",positive,5,Electronics
+123,"Works like a charm, absolutely fantastic. Highly recommended!",positive,5,Beauty
+1208,Works fine for occasional use I suppose. Your call.,neutral,3,Home & Kitchen
+203,"Delighted with this purchase, thank you so much. Great!",positive,5,Clothing
+836,"Awful customer service, no help whatsoever. Very bad.",negative,1,Clothing
+247,The quality exceeded my expectations completely. Amazing!,positive,5,Toys
+1423,"Average product, does the job I suppose. Average.",neutral,3,Clothing
+1409,"Average product, does the job I suppose. Your call.",neutral,3,Home & Kitchen
+1154,"Absolute nightmare, returning this immediately. Awful.",negative,1,Clothing
+385,"Works like a charm, absolutely fantastic. Great!",positive,4,Books
+1323,"Meets basic requirements, nothing more to say. Maybe try it.",neutral,3,Sports
+855,Stopped working within a week of purchase. Very bad.,negative,1,Home & Kitchen
+220,"Highly satisfied customer, great product overall. Amazing!",positive,5,Automotive
+642,"Worst purchase ever, totally useless product. Garbage.",negative,1,Automotive
+2,"Excellent value for money, very happy with my purchase. Loved it.",positive,4,Books
+113,Really impressed with how well this works. Great!,positive,5,Sports
+699,"Broke immediately, absolutely worthless. Very bad.",negative,1,Clothing
+1432,"Average product, does the job I suppose. Your call.",neutral,3,Electronics
+952,"Defective product, very frustrating experience. Zero stars.",negative,2,Toys
+1318,"Product arrived on time, seems okay so far. Average.",neutral,3,Beauty
+1292,Works fine for occasional use I suppose. Fair enough.,neutral,3,Home & Kitchen
+1354,"Product arrived on time, seems okay so far. It is alright.",neutral,3,Automotive
+442,"Simply outstanding, exceeded all my hopes. 10/10!",positive,5,Books
+1137,"Worst purchase ever, totally useless product. Very bad.",negative,1,Sports
+1257,"Product arrived on time, seems okay so far. Fair enough.",neutral,3,Toys
+664,"Low quality materials, very bad build. Zero stars.",negative,2,Clothing
+1373,"Meets basic requirements, nothing more to say. Your call.",neutral,3,Home & Kitchen
+1258,Works fine for occasional use I suppose. Average.,neutral,3,Sports
+1332,"It is alright, not what I expected though. Your call.",neutral,3,Automotive
+318,"Superb quality and fast delivery, very satisfied. Amazing!",positive,5,Beauty
+649,"Absolute nightmare, returning this immediately. Awful.",negative,1,Beauty
+710,Customer support is nonexistent and unhelpful. Garbage.,negative,1,Home & Kitchen
+1283,"Meets basic requirements, nothing more to say. It is alright.",neutral,3,Electronics
+973,"Very poor quality, fell apart immediately. Very bad.",negative,1,Sports
+628,Terrible smell and poor packaging overall. Never again.,negative,1,Beauty
+633,"Regret buying this, complete waste of money. Never again.",negative,2,Beauty
+1307,Mediocre quality but works for now. It is alright.,neutral,3,Sports
+1249,Mediocre quality but works for now. Your call.,neutral,3,Sports
+1462,"Neither great nor terrible, just okay overall. Fair enough.",neutral,3,Toys
+1255,"Delivery was fine, product is functional enough. Fair enough.",neutral,3,Automotive
+1384,"Delivery was fine, product is functional enough. Average.",neutral,3,Automotive
+796,"Regret buying this, complete waste of money. Never again.",negative,1,Books
+646,"Low quality materials, very bad build. Very bad.",negative,2,Beauty
+1013,"Terrible product, broke after just one day of use. Awful.",negative,1,Beauty
+557,"Love everything about this, truly wonderful. 10/10!",positive,5,Electronics
+682,"Horrible experience, would never buy again. Zero stars.",negative,1,Clothing
+578,"Delighted with this purchase, thank you so much. Loved it.",positive,4,Clothing
+1110,"Awful customer service, no help whatsoever. Never again.",negative,1,Automotive
+1267,"Neither great nor terrible, just okay overall. Average.",neutral,3,Home & Kitchen
+1184,Stopped working within a week of purchase. Garbage.,negative,1,Electronics
+525,"Incredible performance, beats all competitors easily. Highly recommended!",positive,5,Home & Kitchen
+1060,"Awful customer service, no help whatsoever. Never again.",negative,2,Electronics
+541,"Highly satisfied customer, great product overall. Loved it.",positive,5,Clothing
+1195,"Does not work as advertised, very misleading. Garbage.",negative,2,Books
+749,"Low quality materials, very bad build. Awful.",negative,1,Clothing
+1387,"Meets basic requirements, nothing more to say. Fair enough.",neutral,3,Toys
+485,Five stars! Will definitely buy again. Great!,positive,5,Automotive
+96,"Excellent value for money, very happy with my purchase. Loved it.",positive,5,Electronics
+1021,"Horrible experience, would never buy again. Very bad.",negative,2,Toys
+564,Great craftsmanship and very durable product. Highly recommended!,positive,5,Clothing
+1265,"Neither great nor terrible, just okay overall. It is alright.",neutral,3,Electronics
+743,"Low quality materials, very bad build. Very bad.",negative,1,Beauty
+864,Customer support is nonexistent and unhelpful. Very bad.,negative,2,Sports
+892,Overpriced junk that does not function at all. Very bad.,negative,1,Books
+1039,"Absolute nightmare, returning this immediately. Never again.",negative,2,Toys
+207,"This changed my life, absolutely brilliant product. Great!",positive,5,Clothing
+393,Really impressed with how well this works. Great!,positive,4,Toys
+795,"Nothing like described, very disappointing. Zero stars.",negative,1,Automotive
+871,"Horrible experience, would never buy again. Garbage.",negative,1,Automotive
+398,Outstanding customer service and great product quality. Great!,positive,5,Toys
+767,"Complete garbage, avoid at all costs. Awful.",negative,1,Automotive
+1377,"Average product, does the job I suppose. Maybe try it.",neutral,3,Sports
+1242,"Does what it says, no more no less. Fair enough.",neutral,3,Automotive
+1029,"Terrible product, broke after just one day of use. Very bad.",negative,2,Electronics
+643,"Horrible experience, would never buy again. Zero stars.",negative,2,Sports
+613,"Does not work as advertised, very misleading. Very bad.",negative,1,Beauty
+961,"Nothing like described, very disappointing. Never again.",negative,1,Clothing
+726,"Low quality materials, very bad build. Awful.",negative,1,Books
+684,"Terrible product, broke after just one day of use. Garbage.",negative,1,Clothing
+99,"This product is absolutely amazing, I love it so much! Great!",positive,5,Sports
+805,"Low quality materials, very bad build. Never again.",negative,2,Books
+407,"This changed my life, absolutely brilliant product. Loved it.",positive,5,Automotive
+503,The best thing I have bought this year. Great!,positive,4,Clothing
+1072,"Broke immediately, absolutely worthless. Very bad.",negative,1,Sports
+1057,Terrible smell and poor packaging overall. Never again.,negative,1,Sports
+930,"Broke immediately, absolutely worthless. Never again.",negative,1,Sports
+780,Terrible smell and poor packaging overall. Awful.,negative,2,Home & Kitchen
+201,"This changed my life, absolutely brilliant product. Highly recommended!",positive,4,Sports
+135,Great craftsmanship and very durable product. Highly recommended!,positive,5,Home & Kitchen
+1052,"Broke immediately, absolutely worthless. Zero stars.",negative,1,Automotive
+41,"Simply outstanding, exceeded all my hopes. Highly recommended!",positive,5,Beauty
+1018,"Defective product, very frustrating experience. Very bad.",negative,2,Automotive
+231,"Best purchase I have ever made, works perfectly. Amazing!",positive,5,Books
+379,"Incredible performance, beats all competitors easily. Great!",positive,4,Beauty
+289,"Simply outstanding, exceeded all my hopes. 10/10!",positive,4,Automotive
+419,Wonderful experience from start to finish. Highly recommended!,positive,5,Electronics
+392,"Works like a charm, absolutely fantastic. 10/10!",positive,5,Home & Kitchen
+593,"Best purchase I have ever made, works perfectly. Great!",positive,5,Clothing
+1163,"Horrible experience, would never buy again. Very bad.",negative,1,Beauty
+1087,"Worst purchase ever, totally useless product. Never again.",negative,1,Books
+648,"Complete garbage, avoid at all costs. Never again.",negative,2,Clothing
+1153,"Terrible product, broke after just one day of use. Zero stars.",negative,1,Beauty
+1368,Works fine for occasional use I suppose. Maybe try it.,neutral,3,Home & Kitchen
+521,"Delighted with this purchase, thank you so much. Highly recommended!",positive,5,Electronics
+65,"Fantastic experience, highly recommend to everyone. Great!",positive,5,Automotive
+15,"Best purchase I have ever made, works perfectly. Amazing!",positive,5,Sports
+1181,"Worst purchase ever, totally useless product. Very bad.",negative,2,Electronics
+1065,Customer support is nonexistent and unhelpful. Very bad.,negative,1,Beauty
+493,"Love everything about this, truly wonderful. 10/10!",positive,5,Home & Kitchen
+380,Wonderful experience from start to finish. Highly recommended!,positive,5,Toys
+188,"Delighted with this purchase, thank you so much. Highly recommended!",positive,4,Electronics
+764,Overpriced junk that does not function at all. Zero stars.,negative,1,Toys
+217,Great craftsmanship and very durable product. Great!,positive,4,Beauty
+792,Extremely unhappy with this purchase. Zero stars.,negative,1,Books
+1077,"Worst purchase ever, totally useless product. Zero stars.",negative,2,Home & Kitchen
+879,"Completely disappointed, total waste of money. Garbage.",negative,2,Beauty
+338,"Incredible performance, beats all competitors easily. Loved it.",positive,4,Home & Kitchen
+720,"Horrible experience, would never buy again. Zero stars.",negative,2,Beauty
+296,"Best purchase I have ever made, works perfectly. Highly recommended!",positive,5,Home & Kitchen
+1017,"Nothing like described, very disappointing. Awful.",negative,1,Home & Kitchen
+1276,"Neither great nor terrible, just okay overall. Average.",neutral,3,Automotive
+456,"Excellent value for money, very happy with my purchase. Amazing!",positive,5,Books
+1497,"It is alright, not what I expected though. Maybe try it.",neutral,3,Books
+816,Stopped working within a week of purchase. Awful.,negative,1,Books
+270,"Excellent value for money, very happy with my purchase. Highly recommended!",positive,5,Clothing
+996,"Awful customer service, no help whatsoever. Awful.",negative,1,Clothing
+202,The quality exceeded my expectations completely. Loved it.,positive,5,Electronics
+162,"This product is absolutely amazing, I love it so much! Amazing!",positive,5,Toys
+730,"Does not work as advertised, very misleading. Garbage.",negative,2,Toys
+402,"Fantastic experience, highly recommend to everyone. 10/10!",positive,5,Sports
+703,"Awful customer service, no help whatsoever. Never again.",negative,2,Home & Kitchen
+1130,"Defective product, very frustrating experience. Awful.",negative,2,Sports
+566,The quality exceeded my expectations completely. Amazing!,positive,4,Toys
+1414,"Standard quality product, as expected for price. It is alright.",neutral,3,Electronics
+1022,"Very poor quality, fell apart immediately. Awful.",negative,1,Clothing
+1026,"Defective product, very frustrating experience. Awful.",negative,1,Beauty
+1412,"It works as described, nothing special about it. Your call.",neutral,3,Automotive
+1105,Stopped working within a week of purchase. Garbage.,negative,2,Toys
+206,The best thing I have bought this year. 10/10!,positive,5,Beauty
+35,"Incredible performance, beats all competitors easily. Loved it.",positive,5,Electronics
+776,"Nothing like described, very disappointing. Zero stars.",negative,2,Sports
+509,Really impressed with how well this works. 10/10!,positive,4,Electronics
+1476,"Meets basic requirements, nothing more to say. It is alright.",neutral,3,Sports
+1391,"Meets basic requirements, nothing more to say. It is alright.",neutral,3,Clothing
+92,"This product is absolutely amazing, I love it so much! Loved it.",positive,5,Toys
+1364,"It is alright, not what I expected though. It is alright.",neutral,3,Beauty
+898,"Low quality materials, very bad build. Never again.",negative,1,Home & Kitchen
+565,"Excellent value for money, very happy with my purchase. 10/10!",positive,5,Home & Kitchen
+1370,"It works as described, nothing special about it. Maybe try it.",neutral,3,Home & Kitchen
+777,"Horrible experience, would never buy again. Very bad.",negative,1,Home & Kitchen
+242,"Delighted with this purchase, thank you so much. Loved it.",positive,5,Clothing
+14,"Excellent value for money, very happy with my purchase. 10/10!",positive,5,Books
+316,"Love everything about this, truly wonderful. 10/10!",positive,4,Books
+601,The product is dangerous and poorly made. Awful.,negative,1,Home & Kitchen
+388,"Best purchase I have ever made, works perfectly. Great!",positive,5,Home & Kitchen
+1298,"It works as described, nothing special about it. Your call.",neutral,3,Clothing
+167,The best thing I have bought this year. Amazing!,positive,4,Electronics
+841,Customer support is nonexistent and unhelpful. Very bad.,negative,1,Toys
+21,Wonderful experience from start to finish. 10/10!,positive,5,Books
+647,"Completely disappointed, total waste of money. Never again.",negative,1,Books
+1155,"Absolute nightmare, returning this immediately. Very bad.",negative,2,Electronics
+832,"Complete garbage, avoid at all costs. Very bad.",negative,1,Home & Kitchen
+1268,Acceptable for the price point given. Fair enough.,neutral,3,Home & Kitchen
+563,"Fantastic experience, highly recommend to everyone. Highly recommended!",positive,5,Beauty
+1461,Mediocre quality but works for now. Fair enough.,neutral,3,Sports
+687,"Does not work as advertised, very misleading. Awful.",negative,1,Electronics
+958,Extremely unhappy with this purchase. Never again.,negative,1,Electronics
+190,Really impressed with how well this works. Loved it.,positive,4,Clothing
+976,"Absolute nightmare, returning this immediately. Zero stars.",negative,1,Beauty
+700,"Horrible experience, would never buy again. Never again.",negative,2,Sports
+511,"Love everything about this, truly wonderful. Amazing!",positive,5,Automotive
+1083,Terrible smell and poor packaging overall. Garbage.,negative,2,Automotive
+475,The best thing I have bought this year. Highly recommended!,positive,5,Automotive
+857,"Terrible product, broke after just one day of use. Never again.",negative,1,Sports
+748,The product is dangerous and poorly made. Garbage.,negative,2,Beauty
+253,"Love everything about this, truly wonderful. Loved it.",positive,5,Toys
+22,"Delighted with this purchase, thank you so much. 10/10!",positive,5,Home & Kitchen
+1338,"Neither great nor terrible, just okay overall. Average.",neutral,3,Electronics
+460,Five stars! Will definitely buy again. Loved it.,positive,5,Automotive
+1185,The product is dangerous and poorly made. Never again.,negative,1,Home & Kitchen
+277,"Perfect in every way, could not ask for more. Great!",positive,4,Home & Kitchen
+956,Terrible smell and poor packaging overall. Garbage.,negative,1,Beauty
+1216,"Does what it says, no more no less. Your call.",neutral,3,Electronics
+386,"Superb quality and fast delivery, very satisfied. Loved it.",positive,5,Clothing
+806,Overpriced junk that does not function at all. Never again.,negative,1,Books
+1438,"Does what it says, no more no less. It is alright.",neutral,3,Automotive
+344,"Delighted with this purchase, thank you so much. Great!",positive,4,Toys
+770,"Complete garbage, avoid at all costs. Garbage.",negative,1,Toys
+1333,"Meets basic requirements, nothing more to say. Average.",neutral,3,Toys
+131,Great craftsmanship and very durable product. Amazing!,positive,4,Beauty
+872,"Broke immediately, absolutely worthless. Awful.",negative,1,Beauty
+1124,Overpriced junk that does not function at all. Very bad.,negative,2,Clothing
+1397,"Neither great nor terrible, just okay overall. Average.",neutral,3,Clothing
+88,Outstanding customer service and great product quality. Great!,positive,5,Sports
+1483,Mediocre quality but works for now. Maybe try it.,neutral,3,Automotive
+331,"Love everything about this, truly wonderful. Great!",positive,4,Beauty
+1239,"It is alright, not what I expected though. Average.",neutral,3,Home & Kitchen
+467,Wonderful experience from start to finish. 10/10!,positive,5,Electronics
+122,Outstanding customer service and great product quality. Amazing!,positive,5,Toys
+1045,"Completely disappointed, total waste of money. Zero stars.",negative,1,Sports
+1096,"Nothing like described, very disappointing. Zero stars.",negative,2,Beauty
+1131,"Broke immediately, absolutely worthless. Very bad.",negative,1,Clothing
+1295,"Average product, does the job I suppose. Fair enough.",neutral,3,Books
+861,"Terrible product, broke after just one day of use. Garbage.",negative,2,Clothing
+1460,Acceptable for the price point given. Your call.,neutral,3,Electronics
+1127,"Nothing like described, very disappointing. Zero stars.",negative,2,Electronics
