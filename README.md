@@ -1,10 +1,5 @@
 # 🧠 NLP Sentiment Analysis: Multi-Class Product Review Classifier
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-orange?logo=scikit-learn)](https://scikit-learn.org)
-[![NLP](https://img.shields.io/badge/Domain-NLP%20%7C%20ML-purple)]()
-[![License](https://img.shields.io/badge/License-MIT-green)]()
-
 > **An end-to-end NLP pipeline that automatically classifies e-commerce product reviews into Positive, Negative, or Neutral sentiments — comparing 5 machine learning algorithms with full evaluation and deployment-ready output.**
 
 ---
